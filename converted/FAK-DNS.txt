@@ -1,5 +1,4 @@
-https://dns.cloudflare.com/dns-query
-https://0ms.dev/dns-query
+https://0ms.dev:443/dns-query
 [/0-6.com/]quic://dns.alidns.com:853
 [/0.zone/]quic://dns.alidns.com:853
 [/00.net/]quic://dns.alidns.com:853
