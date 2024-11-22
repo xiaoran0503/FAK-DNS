@@ -364,7 +364,6 @@
 [/0523zz.com/]quic://dns.alidns.com:853
 [/05273.com/]quic://dns.alidns.com:853
 [/0527zz.com/]quic://dns.alidns.com:853
-[/0528012.com/]quic://dns.alidns.com:853
 [/052yx.com/]quic://dns.alidns.com:853
 [/0531.com/]quic://dns.alidns.com:853
 [/053135.com/]quic://dns.alidns.com:853
@@ -400,7 +399,6 @@
 [/0554shdz.com/]quic://dns.alidns.com:853
 [/0554zp.com/]quic://dns.alidns.com:853
 [/0555dsw.com/]quic://dns.alidns.com:853
-[/0558zp.com/]quic://dns.alidns.com:853
 [/0559tea.com/]quic://dns.alidns.com:853
 [/0561house.com/]quic://dns.alidns.com:853
 [/0563job.com/]quic://dns.alidns.com:853
@@ -1850,7 +1848,6 @@
 [/1892139.com/]quic://dns.alidns.com:853
 [/18935689292.com/]quic://dns.alidns.com:853
 [/18937777777.com/]quic://dns.alidns.com:853
-[/189578.com/]quic://dns.alidns.com:853
 [/18999666.xyz/]quic://dns.alidns.com:853
 [/189cha.com/]quic://dns.alidns.com:853
 [/189che.com/]quic://dns.alidns.com:853
@@ -2495,7 +2492,6 @@
 [/258288.com/]quic://dns.alidns.com:853
 [/25847.com/]quic://dns.alidns.com:853
 [/25863.com/]quic://dns.alidns.com:853
-[/2588qq.com/]quic://dns.alidns.com:853
 [/25892.com/]quic://dns.alidns.com:853
 [/258ch.com/]quic://dns.alidns.com:853
 [/258fuwu.com/]quic://dns.alidns.com:853
@@ -3366,7 +3362,6 @@
 [/37692.site/]quic://dns.alidns.com:853
 [/37937.com/]quic://dns.alidns.com:853
 [/3798.com/]quic://dns.alidns.com:853
-[/3799qq.com/]quic://dns.alidns.com:853
 [/379bst.com/]quic://dns.alidns.com:853
 [/37biao.com/]quic://dns.alidns.com:853
 [/37bjw.com/]quic://dns.alidns.com:853
@@ -5317,7 +5312,6 @@
 [/58wan.com/]quic://dns.alidns.com:853
 [/58wangwei.com/]quic://dns.alidns.com:853
 [/58wanwan.com/]quic://dns.alidns.com:853
-[/58woyou.com/]quic://dns.alidns.com:853
 [/58wzd.com/]quic://dns.alidns.com:853
 [/58xinrui.com/]quic://dns.alidns.com:853
 [/58xs.la/]quic://dns.alidns.com:853
@@ -6231,7 +6225,6 @@
 [/73card.com/]quic://dns.alidns.com:853
 [/73mq.com/]quic://dns.alidns.com:853
 [/73so.com/]quic://dns.alidns.com:853
-[/73tz.com/]quic://dns.alidns.com:853
 [/73zw.com/]quic://dns.alidns.com:853
 [/74.com/]quic://dns.alidns.com:853
 [/7428.net/]quic://dns.alidns.com:853
@@ -6851,7 +6844,6 @@
 [/86xq.com/]quic://dns.alidns.com:853
 [/86y.org/]quic://dns.alidns.com:853
 [/86yqy.com/]quic://dns.alidns.com:853
-[/86zsw.com/]quic://dns.alidns.com:853
 [/870.com/]quic://dns.alidns.com:853
 [/87050.com/]quic://dns.alidns.com:853
 [/870818.com/]quic://dns.alidns.com:853
@@ -6931,7 +6923,6 @@
 [/8888800000.com/]quic://dns.alidns.com:853
 [/88888aaa.com/]quic://dns.alidns.com:853
 [/88889aaa.com/]quic://dns.alidns.com:853
-[/8889896.com/]quic://dns.alidns.com:853
 [/8889997777.com/]quic://dns.alidns.com:853
 [/888ban.com/]quic://dns.alidns.com:853
 [/888bb111ww.com/]quic://dns.alidns.com:853
@@ -7204,7 +7195,6 @@
 [/91anjian.com/]quic://dns.alidns.com:853
 [/91art.net/]quic://dns.alidns.com:853
 [/91baby.com/]quic://dns.alidns.com:853
-[/91bbw.net/]quic://dns.alidns.com:853
 [/91bee.com/]quic://dns.alidns.com:853
 [/91boshuo.com/]quic://dns.alidns.com:853
 [/91bushou.com/]quic://dns.alidns.com:853
@@ -7450,7 +7440,6 @@
 [/9355.com/]quic://dns.alidns.com:853
 [/93636.com/]quic://dns.alidns.com:853
 [/93665.xin/]quic://dns.alidns.com:853
-[/9366qq.com/]quic://dns.alidns.com:853
 [/936u.com/]quic://dns.alidns.com:853
 [/937-2.vip/]quic://dns.alidns.com:853
 [/937-3.vip/]quic://dns.alidns.com:853
@@ -8101,7 +8090,6 @@
 [/a8tg.com/]quic://dns.alidns.com:853
 [/a8u.net/]quic://dns.alidns.com:853
 [/a8z8.com/]quic://dns.alidns.com:853
-[/a9188.com/]quic://dns.alidns.com:853
 [/a9377j.com/]quic://dns.alidns.com:853
 [/a963.com/]quic://dns.alidns.com:853
 [/a9market.com/]quic://dns.alidns.com:853
@@ -8333,7 +8321,6 @@
 [/activeclub.net/]quic://dns.alidns.com:853
 [/activepower.net/]quic://dns.alidns.com:853
 [/activity04.com/]quic://dns.alidns.com:853
-[/actom.me/]quic://dns.alidns.com:853
 [/actoys.com/]quic://dns.alidns.com:853
 [/actoys.net/]quic://dns.alidns.com:853
 [/actranslation.com/]quic://dns.alidns.com:853
@@ -9108,7 +9095,6 @@
 [/aise.chat/]quic://dns.alidns.com:853
 [/aisee.tv/]quic://dns.alidns.com:853
 [/aiseeking.com/]quic://dns.alidns.com:853
-[/aiseka.com/]quic://dns.alidns.com:853
 [/aiseminar.com/]quic://dns.alidns.com:853
 [/aisenseinc.com/]quic://dns.alidns.com:853
 [/aishangba.info/]quic://dns.alidns.com:853
@@ -9118,7 +9104,6 @@
 [/aishdxz.com/]quic://dns.alidns.com:853
 [/aishengji.com/]quic://dns.alidns.com:853
 [/aishenhua.com/]quic://dns.alidns.com:853
-[/aishu5.com/]quic://dns.alidns.com:853
 [/aishuchao.com/]quic://dns.alidns.com:853
 [/aishuge.cc/]quic://dns.alidns.com:853
 [/aishuge.la/]quic://dns.alidns.com:853
@@ -9938,6 +9923,7 @@
 [/antbuyhot.com/]quic://dns.alidns.com:853
 [/antcloud-miniprogram.com/]quic://dns.alidns.com:853
 [/antcut.com/]quic://dns.alidns.com:853
+[/antdigital.com/]quic://dns.alidns.com:853
 [/antdv.com/]quic://dns.alidns.com:853
 [/antebao.com/]quic://dns.alidns.com:853
 [/antebo.com/]quic://dns.alidns.com:853
@@ -10108,6 +10094,7 @@
 [/aolylcd.com/]quic://dns.alidns.com:853
 [/aomaismoking.com/]quic://dns.alidns.com:853
 [/aomao.com/]quic://dns.alidns.com:853
+[/aomsitf.com/]quic://dns.alidns.com:853
 [/aomygodstatic.com/]quic://dns.alidns.com:853
 [/aonaotu.com/]quic://dns.alidns.com:853
 [/aony-cz.com/]quic://dns.alidns.com:853
@@ -10419,7 +10406,6 @@
 [/archermind.com/]quic://dns.alidns.com:853
 [/archeros.com/]quic://dns.alidns.com:853
 [/archery8.com/]quic://dns.alidns.com:853
-[/archerysalon.com/]quic://dns.alidns.com:853
 [/archgo.com/]quic://dns.alidns.com:853
 [/archi-motive.com/]quic://dns.alidns.com:853
 [/archiant.com/]quic://dns.alidns.com:853
@@ -10635,6 +10621,8 @@
 [/asm64.com/]quic://dns.alidns.com:853
 [/asmasm.com/]quic://dns.alidns.com:853
 [/asmlc.com/]quic://dns.alidns.com:853
+[/asmr-200.com/]quic://dns.alidns.com:853
+[/asmr.one/]quic://dns.alidns.com:853
 [/asmr.red/]quic://dns.alidns.com:853
 [/asnlab.com/]quic://dns.alidns.com:853
 [/asnlab.org/]quic://dns.alidns.com:853
@@ -11567,7 +11555,6 @@
 [/banbang.com/]quic://dns.alidns.com:853
 [/banbanjia8.com/]quic://dns.alidns.com:853
 [/banbao22.com/]quic://dns.alidns.com:853
-[/banbaowang.com/]quic://dns.alidns.com:853
 [/bancheng08.fun/]quic://dns.alidns.com:853
 [/banchengyun.com/]quic://dns.alidns.com:853
 [/banciyuan.me/]quic://dns.alidns.com:853
@@ -12762,7 +12749,6 @@
 [/bibigpt.co/]quic://dns.alidns.com:853
 [/bibiku.com/]quic://dns.alidns.com:853
 [/bibuzhengxing.com/]quic://dns.alidns.com:853
-[/bich6dqye5.xyz/]quic://dns.alidns.com:853
 [/bicobrand.com/]quic://dns.alidns.com:853
 [/bicomoptics.com/]quic://dns.alidns.com:853
 [/bicpaedu.com/]quic://dns.alidns.com:853
@@ -12780,6 +12766,7 @@
 [/bidianer.com/]quic://dns.alidns.com:853
 [/bidingxing.com/]quic://dns.alidns.com:853
 [/bidizhaobiao.com/]quic://dns.alidns.com:853
+[/bidjora.com/]quic://dns.alidns.com:853
 [/bidns.net/]quic://dns.alidns.com:853
 [/bidtoolads.com/]quic://dns.alidns.com:853
 [/biduo.cc/]quic://dns.alidns.com:853
@@ -13464,7 +13451,6 @@
 [/bjtth.org/]quic://dns.alidns.com:853
 [/bjttsf.com/]quic://dns.alidns.com:853
 [/bjtvnews.com/]quic://dns.alidns.com:853
-[/bjtydwater.com/]quic://dns.alidns.com:853
 [/bjtyzh.org/]quic://dns.alidns.com:853
 [/bjtzzg.com/]quic://dns.alidns.com:853
 [/bjufida.com/]quic://dns.alidns.com:853
@@ -14013,7 +13999,6 @@
 [/bootstrapmb.com/]quic://dns.alidns.com:853
 [/booyu-import.com/]quic://dns.alidns.com:853
 [/booz88.com/]quic://dns.alidns.com:853
-[/bopian.com/]quic://dns.alidns.com:853
 [/bopinquwei.online/]quic://dns.alidns.com:853
 [/boqianpvm.com/]quic://dns.alidns.com:853
 [/boqii.com/]quic://dns.alidns.com:853
@@ -14806,7 +14791,6 @@
 [/c-t.work/]quic://dns.alidns.com:853
 [/c-yl.com/]quic://dns.alidns.com:853
 [/c.citic/]quic://dns.alidns.com:853
-[/c1042.com/]quic://dns.alidns.com:853
 [/c1ass.com/]quic://dns.alidns.com:853
 [/c1channel.com/]quic://dns.alidns.com:853
 [/c1d8i3p6.com/]quic://dns.alidns.com:853
@@ -15371,7 +15355,6 @@
 [/cbn.me/]quic://dns.alidns.com:853
 [/cbndata.com/]quic://dns.alidns.com:853
 [/cbndata.org/]quic://dns.alidns.com:853
-[/cbnmall.com/]quic://dns.alidns.com:853
 [/cbnri.org/]quic://dns.alidns.com:853
 [/cbnweek.com/]quic://dns.alidns.com:853
 [/cboad.com/]quic://dns.alidns.com:853
@@ -17666,7 +17649,6 @@
 [/chinaxinge.com/]quic://dns.alidns.com:853
 [/chinaxinport.com/]quic://dns.alidns.com:853
 [/chinaxintu.com/]quic://dns.alidns.com:853
-[/chinaxinye.com/]quic://dns.alidns.com:853
 [/chinaxpp.com/]quic://dns.alidns.com:853
 [/chinaxq.com/]quic://dns.alidns.com:853
 [/chinaxqf.com/]quic://dns.alidns.com:853
@@ -19659,6 +19641,7 @@
 [/coloros.com/]quic://dns.alidns.com:853
 [/coloros.net/]quic://dns.alidns.com:853
 [/colorv.com/]quic://dns.alidns.com:853
+[/coloryr.com/]quic://dns.alidns.com:853
 [/colourfulchina.com/]quic://dns.alidns.com:853
 [/colourlife.com/]quic://dns.alidns.com:853
 [/com.fi/]quic://dns.alidns.com:853
@@ -19724,7 +19707,6 @@
 [/conele.com/]quic://dns.alidns.com:853
 [/confluxrpc.com/]quic://dns.alidns.com:853
 [/confuciusinstitute.net/]quic://dns.alidns.com:853
-[/congcong.us/]quic://dns.alidns.com:853
 [/congrongfund.com/]quic://dns.alidns.com:853
 [/congtoukaishi.com/]quic://dns.alidns.com:853
 [/congyicn.com/]quic://dns.alidns.com:853
@@ -20713,6 +20695,7 @@
 [/cusdvs.net/]quic://dns.alidns.com:853
 [/custeel.com/]quic://dns.alidns.com:853
 [/customsapp.com/]quic://dns.alidns.com:853
+[/custouch.com/]quic://dns.alidns.com:853
 [/cut35.com/]quic://dns.alidns.com:853
 [/cuteng.com/]quic://dns.alidns.com:853
 [/cutepet-hk.com/]quic://dns.alidns.com:853
@@ -20762,7 +20745,6 @@
 [/cwtele.com/]quic://dns.alidns.com:853
 [/cwyan.com/]quic://dns.alidns.com:853
 [/cwz12123.com/]quic://dns.alidns.com:853
-[/cx-a.com/]quic://dns.alidns.com:853
 [/cx-smarthome.com/]quic://dns.alidns.com:853
 [/cx001.com/]quic://dns.alidns.com:853
 [/cx221.com/]quic://dns.alidns.com:853
@@ -22071,7 +22053,6 @@
 [/defvul.com/]quic://dns.alidns.com:853
 [/degitec-jiangyin.com/]quic://dns.alidns.com:853
 [/deguoguanjia.com/]quic://dns.alidns.com:853
-[/deguoyibiao.com/]quic://dns.alidns.com:853
 [/dehe99.com/]quic://dns.alidns.com:853
 [/deheheng.com/]quic://dns.alidns.com:853
 [/deheng.com/]quic://dns.alidns.com:853
@@ -22514,7 +22495,6 @@
 [/diandiannuo.com/]quic://dns.alidns.com:853
 [/diandianshu.com/]quic://dns.alidns.com:853
 [/diandianwaimai.com/]quic://dns.alidns.com:853
-[/diandianxie.com/]quic://dns.alidns.com:853
 [/diandianys.com/]quic://dns.alidns.com:853
 [/diandianzhe.com/]quic://dns.alidns.com:853
 [/diandianzu.com/]quic://dns.alidns.com:853
@@ -22921,7 +22901,6 @@
 [/diyinews.com/]quic://dns.alidns.com:853
 [/diyipaihang.com/]quic://dns.alidns.com:853
 [/diyishijian.com/]quic://dns.alidns.com:853
-[/diyitech.com/]quic://dns.alidns.com:853
 [/diyixiazai.com/]quic://dns.alidns.com:853
 [/diyiyou.com/]quic://dns.alidns.com:853
 [/diyiyunshi.com/]quic://dns.alidns.com:853
@@ -23001,6 +22980,7 @@
 [/dkdangle.com/]quic://dns.alidns.com:853
 [/dkewl.com/]quic://dns.alidns.com:853
 [/dkgyw.com/]quic://dns.alidns.com:853
+[/dkhwyzv.com/]quic://dns.alidns.com:853
 [/dkjahfkanf.com/]quic://dns.alidns.com:853
 [/dkjiaoyang.com/]quic://dns.alidns.com:853
 [/dkjmy.com/]quic://dns.alidns.com:853
@@ -23417,7 +23397,6 @@
 [/dongchecha.com/]quic://dns.alidns.com:853
 [/dongchedi.com/]quic://dns.alidns.com:853
 [/dongcheng1.com/]quic://dns.alidns.com:853
-[/dongcheng100.com/]quic://dns.alidns.com:853
 [/dongcheng120.com/]quic://dns.alidns.com:853
 [/dongchenghotels.com/]quic://dns.alidns.com:853
 [/dongcheyun.com/]quic://dns.alidns.com:853
@@ -24016,7 +23995,6 @@
 [/dudubashi.com/]quic://dns.alidns.com:853
 [/dudujuzi.com/]quic://dns.alidns.com:853
 [/dudutalk.com/]quic://dns.alidns.com:853
-[/duduyu.net/]quic://dns.alidns.com:853
 [/duelcn.com/]quic://dns.alidns.com:853
 [/dugoogle.com/]quic://dns.alidns.com:853
 [/dugulingping.com/]quic://dns.alidns.com:853
@@ -24148,7 +24126,6 @@
 [/duomi.com/]quic://dns.alidns.com:853
 [/duomiao.pro/]quic://dns.alidns.com:853
 [/duomicheng.com/]quic://dns.alidns.com:853
-[/duomijuan.com/]quic://dns.alidns.com:853
 [/duominuo.com/]quic://dns.alidns.com:853
 [/duomiyou.com/]quic://dns.alidns.com:853
 [/duomni.com/]quic://dns.alidns.com:853
@@ -25768,7 +25745,6 @@
 [/erro.life/]quic://dns.alidns.com:853
 [/ersantian.com/]quic://dns.alidns.com:853
 [/ershicimi.com/]quic://dns.alidns.com:853
-[/ershouhui.com/]quic://dns.alidns.com:853
 [/ersoso.com/]quic://dns.alidns.com:853
 [/ert.icu/]quic://dns.alidns.com:853
 [/ert295.com/]quic://dns.alidns.com:853
@@ -26723,7 +26699,6 @@
 [/favorites.ren/]quic://dns.alidns.com:853
 [/faw-benteng.com/]quic://dns.alidns.com:853
 [/faw-vw.com/]quic://dns.alidns.com:853
-[/fawaitui.com/]quic://dns.alidns.com:853
 [/fawan.com/]quic://dns.alidns.com:853
 [/fawulu.com/]quic://dns.alidns.com:853
 [/fax52.com/]quic://dns.alidns.com:853
@@ -26737,7 +26712,6 @@
 [/faxingsj.com/]quic://dns.alidns.com:853
 [/faxingtupian.com/]quic://dns.alidns.com:853
 [/faxiufang.com/]quic://dns.alidns.com:853
-[/faxsun.com/]quic://dns.alidns.com:853
 [/faxuan.net/]quic://dns.alidns.com:853
 [/faxy-tech.com/]quic://dns.alidns.com:853
 [/fayifa.com/]quic://dns.alidns.com:853
@@ -27109,7 +27083,6 @@
 [/fengnayun.com/]quic://dns.alidns.com:853
 [/fengniao.com/]quic://dns.alidns.com:853
 [/fengniaohd.com/]quic://dns.alidns.com:853
-[/fengniaojr.com/]quic://dns.alidns.com:853
 [/fengone.com/]quic://dns.alidns.com:853
 [/fengpengjun.com/]quic://dns.alidns.com:853
 [/fengpintech.com/]quic://dns.alidns.com:853
@@ -27986,6 +27959,7 @@
 [/friendship-match.com/]quic://dns.alidns.com:853
 [/fright-tattoo.com/]quic://dns.alidns.com:853
 [/fringe-zero.com/]quic://dns.alidns.com:853
+[/frler.com/]quic://dns.alidns.com:853
 [/froglesson.com/]quic://dns.alidns.com:853
 [/frombyte.com/]quic://dns.alidns.com:853
 [/fromgeek.com/]quic://dns.alidns.com:853
@@ -28194,7 +28168,6 @@
 [/fuliansheng.com/]quic://dns.alidns.com:853
 [/fuliao.com/]quic://dns.alidns.com:853
 [/fuliba.com/]quic://dns.alidns.com:853
-[/fulijd.com/]quic://dns.alidns.com:853
 [/fulimin.org/]quic://dns.alidns.com:853
 [/fulin.org/]quic://dns.alidns.com:853
 [/fuling.com/]quic://dns.alidns.com:853
@@ -29848,7 +29821,6 @@
 [/glcits.com/]quic://dns.alidns.com:853
 [/glclcsy.com/]quic://dns.alidns.com:853
 [/glcszy.com/]quic://dns.alidns.com:853
-[/glcwd.com/]quic://dns.alidns.com:853
 [/gldaewoo.com/]quic://dns.alidns.com:853
 [/gldrjc.com/]quic://dns.alidns.com:853
 [/gldxjc.com/]quic://dns.alidns.com:853
@@ -29937,7 +29909,6 @@
 [/gljzgs.com/]quic://dns.alidns.com:853
 [/glk7.com/]quic://dns.alidns.com:853
 [/glkdworld.com/]quic://dns.alidns.com:853
-[/glkpjx.com/]quic://dns.alidns.com:853
 [/gllcit.com/]quic://dns.alidns.com:853
 [/gllfyy.com/]quic://dns.alidns.com:853
 [/glljsh.com/]quic://dns.alidns.com:853
@@ -30382,7 +30353,6 @@
 [/gongyingshi.com/]quic://dns.alidns.com:853
 [/gongyipuhui.com/]quic://dns.alidns.com:853
 [/gongyishibao.com/]quic://dns.alidns.com:853
-[/gongyixiang.com/]quic://dns.alidns.com:853
 [/gongyou.com/]quic://dns.alidns.com:853
 [/gongyouhui.com/]quic://dns.alidns.com:853
 [/gongyoumishu.com/]quic://dns.alidns.com:853
@@ -31129,7 +31099,6 @@
 [/guigang688.com/]quic://dns.alidns.com:853
 [/guiganganlan.com/]quic://dns.alidns.com:853
 [/guigu.org/]quic://dns.alidns.com:853
-[/guiguangw.com/]quic://dns.alidns.com:853
 [/guiguzhongguo.com/]quic://dns.alidns.com:853
 [/guihaikj.com/]quic://dns.alidns.com:853
 [/guihejr.com/]quic://dns.alidns.com:853
@@ -31390,7 +31359,6 @@
 [/gususoft.com/]quic://dns.alidns.com:853
 [/gusuwang.com/]quic://dns.alidns.com:853
 [/guteke.com/]quic://dns.alidns.com:853
-[/gutianfood.com/]quic://dns.alidns.com:853
 [/gutlighting.com/]quic://dns.alidns.com:853
 [/gutou.com/]quic://dns.alidns.com:853
 [/gutx.org/]quic://dns.alidns.com:853
@@ -31929,7 +31897,6 @@
 [/gxgkcat.com/]quic://dns.alidns.com:853
 [/gxgkzzr.com/]quic://dns.alidns.com:853
 [/gxgl588.com/]quic://dns.alidns.com:853
-[/gxgldx.com/]quic://dns.alidns.com:853
 [/gxglft.com/]quic://dns.alidns.com:853
 [/gxglgcjs.com/]quic://dns.alidns.com:853
 [/gxglhd.com/]quic://dns.alidns.com:853
@@ -32213,7 +32180,6 @@
 [/gxhzyd.com/]quic://dns.alidns.com:853
 [/gxhzzgx.com/]quic://dns.alidns.com:853
 [/gxi.ink/]quic://dns.alidns.com:853
-[/gxiang.net/]quic://dns.alidns.com:853
 [/gxiang.org/]quic://dns.alidns.com:853
 [/gxibvc.net/]quic://dns.alidns.com:853
 [/gxic.net/]quic://dns.alidns.com:853
@@ -32282,7 +32248,6 @@
 [/gxjianhong.com/]quic://dns.alidns.com:853
 [/gxjianlan.com/]quic://dns.alidns.com:853
 [/gxjianrong.com/]quic://dns.alidns.com:853
-[/gxjiantuo.com/]quic://dns.alidns.com:853
 [/gxjianxin.com/]quic://dns.alidns.com:853
 [/gxjianyi.com/]quic://dns.alidns.com:853
 [/gxjiaohang.com/]quic://dns.alidns.com:853
@@ -33636,7 +33601,6 @@
 [/gy818.com/]quic://dns.alidns.com:853
 [/gyb086.com/]quic://dns.alidns.com:853
 [/gybcq.com/]quic://dns.alidns.com:853
-[/gycf.com/]quic://dns.alidns.com:853
 [/gycode.com/]quic://dns.alidns.com:853
 [/gydfsy.com/]quic://dns.alidns.com:853
 [/gydongli.com/]quic://dns.alidns.com:853
@@ -33799,7 +33763,6 @@
 [/gzhuize.com/]quic://dns.alidns.com:853
 [/gzhysy.com/]quic://dns.alidns.com:853
 [/gzhzcj.com/]quic://dns.alidns.com:853
-[/gzhzy888.com/]quic://dns.alidns.com:853
 [/gzidc.com/]quic://dns.alidns.com:853
 [/gzj568.com/]quic://dns.alidns.com:853
 [/gzjc2016.com/]quic://dns.alidns.com:853
@@ -33939,7 +33902,6 @@
 [/gzxdd.com/]quic://dns.alidns.com:853
 [/gzxdf.com/]quic://dns.alidns.com:853
 [/gzxf35.com/]quic://dns.alidns.com:853
-[/gzxfj.com/]quic://dns.alidns.com:853
 [/gzxianc.com/]quic://dns.alidns.com:853
 [/gzxict.com/]quic://dns.alidns.com:853
 [/gzxijiu.com/]quic://dns.alidns.com:853
@@ -34360,7 +34322,6 @@
 [/hanclouds.com/]quic://dns.alidns.com:853
 [/hand-china.com/]quic://dns.alidns.com:853
 [/handanjob.com/]quic://dns.alidns.com:853
-[/handanw.com/]quic://dns.alidns.com:853
 [/handanyz.com/]quic://dns.alidns.com:853
 [/handday.com/]quic://dns.alidns.com:853
 [/handelic.com/]quic://dns.alidns.com:853
@@ -34455,7 +34416,6 @@
 [/hannto.com/]quic://dns.alidns.com:853
 [/hanpian.tv/]quic://dns.alidns.com:853
 [/hanqinghb.com/]quic://dns.alidns.com:853
-[/hanquansu.com/]quic://dns.alidns.com:853
 [/hanschen.site/]quic://dns.alidns.com:853
 [/hanshengjian.com/]quic://dns.alidns.com:853
 [/hanshow.com/]quic://dns.alidns.com:853
@@ -34618,7 +34578,6 @@
 [/haohaozhu.com/]quic://dns.alidns.com:853
 [/haohaozhu.me/]quic://dns.alidns.com:853
 [/haohead.com/]quic://dns.alidns.com:853
-[/haohiyou.com/]quic://dns.alidns.com:853
 [/haohongfan.com/]quic://dns.alidns.com:853
 [/haoht123.com/]quic://dns.alidns.com:853
 [/haohuan.com/]quic://dns.alidns.com:853
@@ -34673,7 +34632,6 @@
 [/haomaishou.com/]quic://dns.alidns.com:853
 [/haomaku.com/]quic://dns.alidns.com:853
 [/haomaohaogou.com/]quic://dns.alidns.com:853
-[/haomee.net/]quic://dns.alidns.com:853
 [/haomeili.net/]quic://dns.alidns.com:853
 [/haomenke.com/]quic://dns.alidns.com:853
 [/haomifi.com/]quic://dns.alidns.com:853
@@ -37911,7 +37869,6 @@
 [/huaougas.com/]quic://dns.alidns.com:853
 [/huapai.com/]quic://dns.alidns.com:853
 [/huapiaoliang.com/]quic://dns.alidns.com:853
-[/huaqiangbuy.com/]quic://dns.alidns.com:853
 [/huaqiaobang.com/]quic://dns.alidns.com:853
 [/huaqidigital.com/]quic://dns.alidns.com:853
 [/huaqin.com/]quic://dns.alidns.com:853
@@ -38515,7 +38472,6 @@
 [/huoyfish.com/]quic://dns.alidns.com:853
 [/huoying666.com/]quic://dns.alidns.com:853
 [/huoyuan.mobi/]quic://dns.alidns.com:853
-[/huoyuandl.com/]quic://dns.alidns.com:853
 [/huoyugame.com/]quic://dns.alidns.com:853
 [/huoyuyan.com/]quic://dns.alidns.com:853
 [/hupan.com/]quic://dns.alidns.com:853
@@ -39388,7 +39344,6 @@
 [/icchaoren.com/]quic://dns.alidns.com:853
 [/iccidchaxun.com/]quic://dns.alidns.com:853
 [/iccircle.com/]quic://dns.alidns.com:853
-[/iccsmart.com/]quic://dns.alidns.com:853
 [/iccsz.com/]quic://dns.alidns.com:853
 [/icdeal.com/]quic://dns.alidns.com:853
 [/icdemi.com/]quic://dns.alidns.com:853
@@ -40445,7 +40400,6 @@
 [/imwzh.com/]quic://dns.alidns.com:853
 [/imx365.net/]quic://dns.alidns.com:853
 [/imxh.com/]quic://dns.alidns.com:853
-[/imxie.club/]quic://dns.alidns.com:853
 [/imxingzhe.com/]quic://dns.alidns.com:853
 [/imxpan.com/]quic://dns.alidns.com:853
 [/imycdn.com/]quic://dns.alidns.com:853
@@ -43990,7 +43944,6 @@
 [/jqgc.com/]quic://dns.alidns.com:853
 [/jqgcw.com/]quic://dns.alidns.com:853
 [/jqhtml.com/]quic://dns.alidns.com:853
-[/jqi7tvvs.xyz/]quic://dns.alidns.com:853
 [/jqkgjt.com/]quic://dns.alidns.com:853
 [/jqncp.com/]quic://dns.alidns.com:853
 [/jqpress.com/]quic://dns.alidns.com:853
@@ -44541,7 +44494,6 @@
 [/junka.com/]quic://dns.alidns.com:853
 [/junlee.net/]quic://dns.alidns.com:853
 [/junlian.me/]quic://dns.alidns.com:853
-[/junlong.plus/]quic://dns.alidns.com:853
 [/junlongtech.com/]quic://dns.alidns.com:853
 [/junmin.org/]quic://dns.alidns.com:853
 [/junmoseo.com/]quic://dns.alidns.com:853
@@ -44709,7 +44661,6 @@
 [/jwick-switch.com/]quic://dns.alidns.com:853
 [/jwipc.com/]quic://dns.alidns.com:853
 [/jwl100.com/]quic://dns.alidns.com:853
-[/jwnote.com/]quic://dns.alidns.com:853
 [/jwsaas.com/]quic://dns.alidns.com:853
 [/jwsem.com/]quic://dns.alidns.com:853
 [/jwshy.com/]quic://dns.alidns.com:853
@@ -45565,7 +45516,6 @@
 [/kedabai.com/]quic://dns.alidns.com:853
 [/kedang.net/]quic://dns.alidns.com:853
 [/kedaotech.com/]quic://dns.alidns.com:853
-[/keddoo.com/]quic://dns.alidns.com:853
 [/kede.com/]quic://dns.alidns.com:853
 [/kedefamen.com/]quic://dns.alidns.com:853
 [/kedi.cc/]quic://dns.alidns.com:853
@@ -45614,7 +45564,6 @@
 [/kejik.com/]quic://dns.alidns.com:853
 [/kejilie.com/]quic://dns.alidns.com:853
 [/kejimeixue.com/]quic://dns.alidns.com:853
-[/kejimt.com/]quic://dns.alidns.com:853
 [/kejingyuan.com/]quic://dns.alidns.com:853
 [/kejinlianmeng.com/]quic://dns.alidns.com:853
 [/kejinshou.com/]quic://dns.alidns.com:853
@@ -45835,6 +45784,7 @@
 [/kiijoy.com/]quic://dns.alidns.com:853
 [/kiinii.com/]quic://dns.alidns.com:853
 [/kikitamap.com/]quic://dns.alidns.com:853
+[/kiko-play-niptan.one/]quic://dns.alidns.com:853
 [/kikoplay.fun/]quic://dns.alidns.com:853
 [/kikusuitape.com/]quic://dns.alidns.com:853
 [/kilamanbo.com/]quic://dns.alidns.com:853
@@ -48679,7 +48629,6 @@
 [/lingyiitech.com/]quic://dns.alidns.com:853
 [/lingyiliebian.com/]quic://dns.alidns.com:853
 [/lingyinsi.com/]quic://dns.alidns.com:853
-[/lingyinsi.org/]quic://dns.alidns.com:853
 [/lingyiwanwu.com/]quic://dns.alidns.com:853
 [/lingyuan.design/]quic://dns.alidns.com:853
 [/lingyue-digital.com/]quic://dns.alidns.com:853
@@ -50104,7 +50053,6 @@
 [/luweiwater.com/]quic://dns.alidns.com:853
 [/luxe.cc/]quic://dns.alidns.com:853
 [/luxe.co/]quic://dns.alidns.com:853
-[/luxee.com/]quic://dns.alidns.com:853
 [/luxemon.com/]quic://dns.alidns.com:853
 [/luxiangdong.com/]quic://dns.alidns.com:853
 [/luxiangwu.net/]quic://dns.alidns.com:853
@@ -51804,6 +51752,7 @@
 [/melizhi.com/]quic://dns.alidns.com:853
 [/melon-eptc.com/]quic://dns.alidns.com:853
 [/melon.cdnetworks.com/]quic://dns.alidns.com:853
+[/melon.icu/]quic://dns.alidns.com:853
 [/melove.net/]quic://dns.alidns.com:853
 [/memblaze.com/]quic://dns.alidns.com:853
 [/memewan.com/]quic://dns.alidns.com:853
@@ -52169,6 +52118,7 @@
 [/microlz.com/]quic://dns.alidns.com:853
 [/micronetpay.com/]quic://dns.alidns.com:853
 [/microrui.net/]quic://dns.alidns.com:853
+[/microsate.com/]quic://dns.alidns.com:853
 [/microstern.com/]quic://dns.alidns.com:853
 [/microtrading.com/]quic://dns.alidns.com:853
 [/microvcard.com/]quic://dns.alidns.com:853
@@ -52239,7 +52189,6 @@
 [/mihanw.com/]quic://dns.alidns.com:853
 [/mihayo.com/]quic://dns.alidns.com:853
 [/mihayou.com/]quic://dns.alidns.com:853
-[/mihayou.fun/]quic://dns.alidns.com:853
 [/mihoyo.com/]quic://dns.alidns.com:853
 [/mihoyogift.com/]quic://dns.alidns.com:853
 [/mihtool.com/]quic://dns.alidns.com:853
@@ -52888,7 +52837,6 @@
 [/modooplay.com/]quic://dns.alidns.com:853
 [/modouwangluo.com/]quic://dns.alidns.com:853
 [/modstart.com/]quic://dns.alidns.com:853
-[/modulesocean.com/]quic://dns.alidns.com:853
 [/moduyun.com/]quic://dns.alidns.com:853
 [/modxz.com/]quic://dns.alidns.com:853
 [/moe-box.com/]quic://dns.alidns.com:853
@@ -53383,9 +53331,6 @@
 [/mt-bbs.com/]quic://dns.alidns.com:853
 [/mt-viki.com/]quic://dns.alidns.com:853
 [/mt-wire.com/]quic://dns.alidns.com:853
-[/mt28ss.vip/]quic://dns.alidns.com:853
-[/mt425cc.vip/]quic://dns.alidns.com:853
-[/mt56ml.vip/]quic://dns.alidns.com:853
 [/mt77.com/]quic://dns.alidns.com:853
 [/mt888vip.com/]quic://dns.alidns.com:853
 [/mtadx.com/]quic://dns.alidns.com:853
@@ -53495,7 +53440,6 @@
 [/mulazim.com/]quic://dns.alidns.com:853
 [/multilingual-volc.com/]quic://dns.alidns.com:853
 [/mulunspring.com/]quic://dns.alidns.com:853
-[/muluoke.com/]quic://dns.alidns.com:853
 [/mumayi.com/]quic://dns.alidns.com:853
 [/mumu01.com/]quic://dns.alidns.com:853
 [/mumunv.com/]quic://dns.alidns.com:853
@@ -55466,7 +55410,6 @@
 [/nnxinxiang.com/]quic://dns.alidns.com:853
 [/nnxiongzhi.com/]quic://dns.alidns.com:853
 [/nnxiyun.com/]quic://dns.alidns.com:853
-[/nnxjg.com/]quic://dns.alidns.com:853
 [/nnxjtf.com/]quic://dns.alidns.com:853
 [/nnxknkyy.com/]quic://dns.alidns.com:853
 [/nnxl.net/]quic://dns.alidns.com:853
@@ -55932,7 +55875,6 @@
 [/nwct.me/]quic://dns.alidns.com:853
 [/nwdlink.com/]quic://dns.alidns.com:853
 [/nweon.com/]quic://dns.alidns.com:853
-[/nwnthevast.net/]quic://dns.alidns.com:853
 [/nwshotel.com/]quic://dns.alidns.com:853
 [/nwsjwuj.com/]quic://dns.alidns.com:853
 [/nx.cm/]quic://dns.alidns.com:853
@@ -56448,7 +56390,6 @@
 [/onething.net/]quic://dns.alidns.com:853
 [/onethingcloud.com/]quic://dns.alidns.com:853
 [/onethingpcs.com/]quic://dns.alidns.com:853
-[/onetog.com/]quic://dns.alidns.com:853
 [/onetts.com/]quic://dns.alidns.com:853
 [/onetwo.ren/]quic://dns.alidns.com:853
 [/onev.cat/]quic://dns.alidns.com:853
@@ -57964,6 +57905,7 @@
 [/pinpaidadao.com/]quic://dns.alidns.com:853
 [/pinpailiu.com/]quic://dns.alidns.com:853
 [/pinpaime.com/]quic://dns.alidns.com:853
+[/pinpopt.site/]quic://dns.alidns.com:853
 [/pinqugongxiangktv.com/]quic://dns.alidns.com:853
 [/pinqukeji.com/]quic://dns.alidns.com:853
 [/pinshan.com/]quic://dns.alidns.com:853
@@ -58286,6 +58228,7 @@
 [/pondernext.com/]quic://dns.alidns.com:853
 [/ponley.com/]quic://dns.alidns.com:853
 [/pontite.com/]quic://dns.alidns.com:853
+[/pony.ai/]quic://dns.alidns.com:853
 [/ponyai-cn.com/]quic://dns.alidns.com:853
 [/ponycool.com/]quic://dns.alidns.com:853
 [/ponyfk.com/]quic://dns.alidns.com:853
@@ -61232,6 +61175,7 @@
 [/rajyj.com/]quic://dns.alidns.com:853
 [/rakinda-aidc.com/]quic://dns.alidns.com:853
 [/rakinda-xm.com/]quic://dns.alidns.com:853
+[/rakutabichina.com/]quic://dns.alidns.com:853
 [/ralf.ren/]quic://dns.alidns.com:853
 [/ramadaplaza-ovwh.com/]quic://dns.alidns.com:853
 [/ramboplay.com/]quic://dns.alidns.com:853
@@ -62098,6 +62042,7 @@
 [/rp76en.com/]quic://dns.alidns.com:853
 [/rpa-cn.com/]quic://dns.alidns.com:853
 [/rpaii.com/]quic://dns.alidns.com:853
+[/rpfbzjam.shop/]quic://dns.alidns.com:853
 [/rpfieldcdn.com/]quic://dns.alidns.com:853
 [/rpg99.com/]quic://dns.alidns.com:853
 [/rpgmoba.com/]quic://dns.alidns.com:853
@@ -62703,7 +62648,6 @@
 [/samyuong.com/]quic://dns.alidns.com:853
 [/samzhe.com/]quic://dns.alidns.com:853
 [/san-health.net/]quic://dns.alidns.com:853
-[/san-petersburgo.net/]quic://dns.alidns.com:853
 [/san-sheng.net/]quic://dns.alidns.com:853
 [/san-tuo.com/]quic://dns.alidns.com:853
 [/san.net/]quic://dns.alidns.com:853
@@ -62825,7 +62769,6 @@
 [/sanxinwin.com/]quic://dns.alidns.com:853
 [/sanyachloe.com/]quic://dns.alidns.com:853
 [/sanyaff.com/]quic://dns.alidns.com:853
-[/sanyafz.com/]quic://dns.alidns.com:853
 [/sanyaguangci.com/]quic://dns.alidns.com:853
 [/sanyajob.com/]quic://dns.alidns.com:853
 [/sanyamotor.com/]quic://dns.alidns.com:853
@@ -63977,7 +63920,6 @@
 [/shangeyun.com/]quic://dns.alidns.com:853
 [/shangfang56.com/]quic://dns.alidns.com:853
 [/shangfenbao.com/]quic://dns.alidns.com:853
-[/shangfenggaoke.com/]quic://dns.alidns.com:853
 [/shangfox.com/]quic://dns.alidns.com:853
 [/shanggame.com/]quic://dns.alidns.com:853
 [/shanghai-air.com/]quic://dns.alidns.com:853
@@ -64214,7 +64156,6 @@
 [/shawdubie.com/]quic://dns.alidns.com:853
 [/shawnzeng.com/]quic://dns.alidns.com:853
 [/shaxian.biz/]quic://dns.alidns.com:853
-[/shayugg.com/]quic://dns.alidns.com:853
 [/shayujizhang.com/]quic://dns.alidns.com:853
 [/shb.ltd/]quic://dns.alidns.com:853
 [/shb02.com/]quic://dns.alidns.com:853
@@ -64340,7 +64281,6 @@
 [/shengbaihui.com/]quic://dns.alidns.com:853
 [/shengbangshenghua.com/]quic://dns.alidns.com:853
 [/shengbaoluo.com/]quic://dns.alidns.com:853
-[/shengbenzixun.com/]quic://dns.alidns.com:853
 [/shengcai.net/]quic://dns.alidns.com:853
 [/shengcaijinrong.com/]quic://dns.alidns.com:853
 [/shengdan.com/]quic://dns.alidns.com:853
@@ -64552,7 +64492,6 @@
 [/shhyhy.com/]quic://dns.alidns.com:853
 [/shhzcj.com/]quic://dns.alidns.com:853
 [/shi-ming.com/]quic://dns.alidns.com:853
-[/shi78.com/]quic://dns.alidns.com:853
 [/shianxin.net/]quic://dns.alidns.com:853
 [/shianzhixuan.com/]quic://dns.alidns.com:853
 [/shibaihui.org/]quic://dns.alidns.com:853
@@ -66419,7 +66358,6 @@
 [/soft568.com/]quic://dns.alidns.com:853
 [/soft6.com/]quic://dns.alidns.com:853
 [/soft778.com/]quic://dns.alidns.com:853
-[/soft78.com/]quic://dns.alidns.com:853
 [/soft808.com/]quic://dns.alidns.com:853
 [/soft8899.com/]quic://dns.alidns.com:853
 [/softabc.com/]quic://dns.alidns.com:853
@@ -66764,7 +66702,6 @@
 [/sowin.com/]quic://dns.alidns.com:853
 [/sowu.com/]quic://dns.alidns.com:853
 [/soxsok.com/]quic://dns.alidns.com:853
-[/soxunwang.com/]quic://dns.alidns.com:853
 [/soyim.com/]quic://dns.alidns.com:853
 [/soyiyuan.com/]quic://dns.alidns.com:853
 [/soyohui.com/]quic://dns.alidns.com:853
@@ -67327,7 +67264,6 @@
 [/stylecdn.com/]quic://dns.alidns.com:853
 [/stylechina.com/]quic://dns.alidns.com:853
 [/stylecho.com/]quic://dns.alidns.com:853
-[/stylemode.com/]quic://dns.alidns.com:853
 [/styles-sys.com/]quic://dns.alidns.com:853
 [/stymqd.xyz/]quic://dns.alidns.com:853
 [/styuanhua.com/]quic://dns.alidns.com:853
@@ -67768,7 +67704,6 @@
 [/svenhetin.com/]quic://dns.alidns.com:853
 [/svimeng.com/]quic://dns.alidns.com:853
 [/svinsight.com/]quic://dns.alidns.com:853
-[/svip15.com/]quic://dns.alidns.com:853
 [/svip5-applefix.com/]quic://dns.alidns.com:853
 [/svip51.com/]quic://dns.alidns.com:853
 [/svipduihuan.com/]quic://dns.alidns.com:853
@@ -69585,7 +69520,6 @@
 [/tfauto.net/]quic://dns.alidns.com:853
 [/tfax.com/]quic://dns.alidns.com:853
 [/tfbestea.com/]quic://dns.alidns.com:853
-[/tfbszx.net/]quic://dns.alidns.com:853
 [/tfcaijing.com/]quic://dns.alidns.com:853
 [/tfchangyou.cyou/]quic://dns.alidns.com:853
 [/tfcloud.com/]quic://dns.alidns.com:853
@@ -69693,7 +69627,6 @@
 [/thegiac.com/]quic://dns.alidns.com:853
 [/thegraduation.store/]quic://dns.alidns.com:853
 [/thehanshow.com/]quic://dns.alidns.com:853
-[/thehellyhansens.com/]quic://dns.alidns.com:853
 [/theicstock.com/]quic://dns.alidns.com:853
 [/thejamy.com/]quic://dns.alidns.com:853
 [/thejiangmen.com/]quic://dns.alidns.com:853
@@ -69707,7 +69640,6 @@
 [/themeol.com/]quic://dns.alidns.com:853
 [/themex.net/]quic://dns.alidns.com:853
 [/themisweeps.com/]quic://dns.alidns.com:853
-[/themrproject.com/]quic://dns.alidns.com:853
 [/then9.com/]quic://dns.alidns.com:853
 [/thenburn.com/]quic://dns.alidns.com:853
 [/thenew123.com/]quic://dns.alidns.com:853
@@ -70099,7 +70031,6 @@
 [/tijian001.com/]quic://dns.alidns.com:853
 [/tijian123.com/]quic://dns.alidns.com:853
 [/tijianbao.com/]quic://dns.alidns.com:853
-[/tijianka.cc/]quic://dns.alidns.com:853
 [/tijianshangmen.com/]quic://dns.alidns.com:853
 [/tijianzhuanjia.com/]quic://dns.alidns.com:853
 [/tijox.cc/]quic://dns.alidns.com:853
@@ -70536,7 +70467,6 @@
 [/tom.com/]quic://dns.alidns.com:853
 [/tom163.net/]quic://dns.alidns.com:853
 [/tomatogames.com/]quic://dns.alidns.com:853
-[/tomatolab.me/]quic://dns.alidns.com:853
 [/tomatolei.com/]quic://dns.alidns.com:853
 [/tomatooflove.com/]quic://dns.alidns.com:853
 [/tomax.xyz/]quic://dns.alidns.com:853
@@ -71890,7 +71820,6 @@
 [/tzxwzx.com/]quic://dns.alidns.com:853
 [/tzyun.com/]quic://dns.alidns.com:853
 [/tzyyao.com/]quic://dns.alidns.com:853
-[/tzyzdp.com/]quic://dns.alidns.com:853
 [/tzzhkj.com/]quic://dns.alidns.com:853
 [/tzzszb.com/]quic://dns.alidns.com:853
 [/u-lights.com/]quic://dns.alidns.com:853
@@ -72322,7 +72251,6 @@
 [/unicomjnwy.com/]quic://dns.alidns.com:853
 [/unicomlife.com/]quic://dns.alidns.com:853
 [/unicompayment.com/]quic://dns.alidns.com:853
-[/unicomspeedtest.com/]quic://dns.alidns.com:853
 [/unicomtest.com/]quic://dns.alidns.com:853
 [/unicon-hibar.com/]quic://dns.alidns.com:853
 [/unicornacg.com/]quic://dns.alidns.com:853
@@ -72464,7 +72392,6 @@
 [/upin.com/]quic://dns.alidns.com:853
 [/upkao.com/]quic://dns.alidns.com:853
 [/upkk.com/]quic://dns.alidns.com:853
-[/uplinux.com/]quic://dns.alidns.com:853
 [/uplookedu.com/]quic://dns.alidns.com:853
 [/uplooking.com/]quic://dns.alidns.com:853
 [/upluck.cc/]quic://dns.alidns.com:853
@@ -73069,7 +72996,6 @@
 [/vhallyun.com/]quic://dns.alidns.com:853
 [/vhao123.com/]quic://dns.alidns.com:853
 [/vhengdata.com/]quic://dns.alidns.com:853
-[/vhilyq.com/]quic://dns.alidns.com:853
 [/vhong.com/]quic://dns.alidns.com:853
 [/vhostcp.com/]quic://dns.alidns.com:853
 [/vhostgo.com/]quic://dns.alidns.com:853
@@ -75918,7 +75844,6 @@
 [/wmsjyun.com/]quic://dns.alidns.com:853
 [/wmsub.com/]quic://dns.alidns.com:853
 [/wmszbpw.com/]quic://dns.alidns.com:853
-[/wmton.com/]quic://dns.alidns.com:853
 [/wmupd.com/]quic://dns.alidns.com:853
 [/wmvideo.com/]quic://dns.alidns.com:853
 [/wmviv.com/]quic://dns.alidns.com:853
@@ -75981,7 +75906,6 @@
 [/wo113.net/]quic://dns.alidns.com:853
 [/wo116114.com/]quic://dns.alidns.com:853
 [/wo186.tv/]quic://dns.alidns.com:853
-[/wo1990.com/]quic://dns.alidns.com:853
 [/wo685.com/]quic://dns.alidns.com:853
 [/wo87.com/]quic://dns.alidns.com:853
 [/woa.com/]quic://dns.alidns.com:853
@@ -76164,7 +76088,6 @@
 [/worktilemail.com/]quic://dns.alidns.com:853
 [/workyun.com/]quic://dns.alidns.com:853
 [/world-audio.com/]quic://dns.alidns.com:853
-[/world-pass.net/]quic://dns.alidns.com:853
 [/world68.com/]quic://dns.alidns.com:853
 [/worldbangmai.com/]quic://dns.alidns.com:853
 [/worldbuy.cc/]quic://dns.alidns.com:853
@@ -78139,6 +78062,7 @@
 [/xiaomastack.com/]quic://dns.alidns.com:853
 [/xiaomaxitong.com/]quic://dns.alidns.com:853
 [/xiaomayi.net/]quic://dns.alidns.com:853
+[/xiaomazhixing.com/]quic://dns.alidns.com:853
 [/xiaomei.cc/]quic://dns.alidns.com:853
 [/xiaomeiti.com/]quic://dns.alidns.com:853
 [/xiaomeng1235.com/]quic://dns.alidns.com:853
@@ -80392,7 +80316,6 @@
 [/xxghh.biz/]quic://dns.alidns.com:853
 [/xxgzmlt.com/]quic://dns.alidns.com:853
 [/xxhd-tech.com/]quic://dns.alidns.com:853
-[/xxhkt.com/]quic://dns.alidns.com:853
 [/xxhpkwd.com/]quic://dns.alidns.com:853
 [/xxinficity.com/]quic://dns.alidns.com:853
 [/xxingclub.com/]quic://dns.alidns.com:853
@@ -81257,7 +81180,6 @@
 [/ydscan.net/]quic://dns.alidns.com:853
 [/ydsjjs.com/]quic://dns.alidns.com:853
 [/ydstatic.com/]quic://dns.alidns.com:853
-[/ydsy.org/]quic://dns.alidns.com:853
 [/ydt-express.com/]quic://dns.alidns.com:853
 [/ydt.link/]quic://dns.alidns.com:853
 [/ydtad.com/]quic://dns.alidns.com:853
@@ -84598,7 +84520,6 @@
 [/yyha168.com/]quic://dns.alidns.com:853
 [/yyhao.com/]quic://dns.alidns.com:853
 [/yyhh.com/]quic://dns.alidns.com:853
-[/yyhhaa.com/]quic://dns.alidns.com:853
 [/yyhn365.com/]quic://dns.alidns.com:853
 [/yyi100.com/]quic://dns.alidns.com:853
 [/yyiren.com/]quic://dns.alidns.com:853
@@ -86083,7 +86004,6 @@
 [/zhiketong.net/]quic://dns.alidns.com:853
 [/zhikongyangpin.com/]quic://dns.alidns.com:853
 [/zhikuai.com/]quic://dns.alidns.com:853
-[/zhikuaidi.com/]quic://dns.alidns.com:853
 [/zhikubao.net/]quic://dns.alidns.com:853
 [/zhilandaren.com/]quic://dns.alidns.com:853
 [/zhilehuo.com/]quic://dns.alidns.com:853
@@ -86342,7 +86262,6 @@
 [/zhongguoyimin.net/]quic://dns.alidns.com:853
 [/zhongguoym.com/]quic://dns.alidns.com:853
 [/zhonghaitech.com/]quic://dns.alidns.com:853
-[/zhonghankejitouzi.com/]quic://dns.alidns.com:853
 [/zhonghaojituan.com/]quic://dns.alidns.com:853
 [/zhonghe58.com/]quic://dns.alidns.com:853
 [/zhonghegame.com/]quic://dns.alidns.com:853
@@ -86369,7 +86288,6 @@
 [/zhongjijidian.com/]quic://dns.alidns.com:853
 [/zhongjincc.com/]quic://dns.alidns.com:853
 [/zhongjintongsheng.com/]quic://dns.alidns.com:853
-[/zhongjitou.com/]quic://dns.alidns.com:853
 [/zhongjiujiu.com/]quic://dns.alidns.com:853
 [/zhongjixinyuan.com/]quic://dns.alidns.com:853
 [/zhongjukiln.com/]quic://dns.alidns.com:853
@@ -86532,7 +86450,6 @@
 [/zhrtc.com/]quic://dns.alidns.com:853
 [/zhsho.com/]quic://dns.alidns.com:853
 [/zhshw.com/]quic://dns.alidns.com:853
-[/zhsyb.cc/]quic://dns.alidns.com:853
 [/zhtelecom.com/]quic://dns.alidns.com:853
 [/zhtmid.com/]quic://dns.alidns.com:853
 [/zhtuanjian.com/]quic://dns.alidns.com:853
@@ -86664,7 +86581,6 @@
 [/zhujiwanjia.com/]quic://dns.alidns.com:853
 [/zhujiwiki.com/]quic://dns.alidns.com:853
 [/zhujiwu.com/]quic://dns.alidns.com:853
-[/zhujiyou.com/]quic://dns.alidns.com:853
 [/zhujizixun.com/]quic://dns.alidns.com:853
 [/zhukang.tech/]quic://dns.alidns.com:853
 [/zhukao666.com/]quic://dns.alidns.com:853
@@ -87722,7 +87638,6 @@
 [/zsbsoft.com/]quic://dns.alidns.com:853
 [/zsbyw.com/]quic://dns.alidns.com:853
 [/zscaishang.com/]quic://dns.alidns.com:853
-[/zscbled.com/]quic://dns.alidns.com:853
 [/zscch.com/]quic://dns.alidns.com:853
 [/zsd.name/]quic://dns.alidns.com:853
 [/zsdianlan.com/]quic://dns.alidns.com:853
@@ -88041,6 +87956,7 @@
 [/zushoushou.com/]quic://dns.alidns.com:853
 [/zutianke.com/]quic://dns.alidns.com:853
 [/zuulee.com/]quic://dns.alidns.com:853
+[/zuwuzhuyi.com/]quic://dns.alidns.com:853
 [/zuxiaoqi.com/]quic://dns.alidns.com:853
 [/zuxiaoyi.com/]quic://dns.alidns.com:853
 [/zuyouzu.com/]quic://dns.alidns.com:853
@@ -88411,7 +88327,6 @@
 [/zzmyrz.com/]quic://dns.alidns.com:853
 [/zzmyt.com/]quic://dns.alidns.com:853
 [/zznah001.com/]quic://dns.alidns.com:853
-[/zznet.online/]quic://dns.alidns.com:853
 [/zzpuke.com/]quic://dns.alidns.com:853
 [/zzqfte.com/]quic://dns.alidns.com:853
 [/zzqiyou.com/]quic://dns.alidns.com:853
@@ -88421,7 +88336,6 @@
 [/zzqudu.com/]quic://dns.alidns.com:853
 [/zzqxs.com/]quic://dns.alidns.com:853
 [/zzqzz.com/]quic://dns.alidns.com:853
-[/zzrbl.com/]quic://dns.alidns.com:853
 [/zzrseng.com/]quic://dns.alidns.com:853
 [/zzs5.com/]quic://dns.alidns.com:853
 [/zzs5.info/]quic://dns.alidns.com:853
@@ -88432,6 +88346,7 @@
 [/zzshe.com/]quic://dns.alidns.com:853
 [/zzsiji.com/]quic://dns.alidns.com:853
 [/zzsin.com/]quic://dns.alidns.com:853
+[/zzspider.com/]quic://dns.alidns.com:853
 [/zzsteel.com/]quic://dns.alidns.com:853
 [/zzstep.com/]quic://dns.alidns.com:853
 [/zzt9.com/]quic://dns.alidns.com:853
