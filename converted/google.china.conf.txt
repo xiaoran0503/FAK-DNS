@@ -1,190 +1,190 @@
-[/265.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/2mdn-cn.net/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/2mdn.net/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/admob-cn.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/adservice.google.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/ai.ytimg.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/app-measurement-cn.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/app-measurement.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/apps5.oingo.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/avail.googleflights.net/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/beacons.gcp.gvt2.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/beacons.gvt2.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/beacons2.gvt2.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/beacons3.gvt2.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/borgmon.adz.google.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/c.admob.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/c.android.clients.google.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/cache-management-prod.google.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/cache.pack.google.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/checkin.gstatic.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/clickserve.cc-dt.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/clickserve.dartsearch.net/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/clickserver.googleads.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/clientservices.googleapis.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/cn.widevine.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/cnappinstall.googleadapis.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/connectivitycheck.gstatic.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/content.googleadapis.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/crashlyticsreports-pa.googleapis.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/crl.pki.goog/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/csi.gstatic.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/dartsearch-cn.net/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/dg-meta.video.google.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/distribution.qatp1.net/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/distribution.qcpp1.net/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/distribution.qpdp1.net/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/dl.google.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/dl.l.google.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/doubleclick-cn.net/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/doubleclick.net/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/download.mlcc.google.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/download.qatp1.net/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/download.qcpp1.net/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/download.qpdp1.net/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/download.tensorflow.google.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/emmapplecodevice.googleapis.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/firebase-settings.crashlytics.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/fontfiles.googleadapis.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/fontfiles.googleapis.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/fonts.googleadapis.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/fonts.googleapis.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/fonts.gstatic.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/g0.gstatic.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/g1.gstatic.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/g2.gstatic.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/g3.gstatic.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/gonglchuangl.net/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/gongyichuangyi.net/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/google-analytics-cn.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/google-analytics.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/googleadservices-cn.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/googleadservices.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/googleanalytics.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/googleapis-cn.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/googleapps-cn.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/googleflights-cn.net/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/googleoptimize-cn.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/googleoptimize.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/googleplex.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/googlesyndication-cn.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/googlesyndication.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/googletagmanager-cn.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/googletagmanager.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/googletagservices-cn.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/googletagservices.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/googletraveladservices-cn.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/googletraveladservices.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/googlevads-cn.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/goto.google.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/gstatic-cn.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/gstaticadssl.l.google.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/gtm.oasisfeng.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/gvt1-cn.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/gvt2-cn.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/imasdk.googleapis.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/monitoring.qatp1.net/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/monitoring.qcpp1.net/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/monitoring.qpdp1.net/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/ocsp.pki.goog/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/pagead-googlehosted.l.google.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/performanceparameters.googleapis.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/pki-goog.l.google.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/play.1ucrs.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/prod-controlbe.floonet.goog/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/prod-databe.floonet.goog/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/prod.databe.floonet.goog/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/qagpublic.qatp1.net/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/qagpublic.qcpp1.net/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/qagpublic.qpdp1.net/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/qgadmin.qatp1.net/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/qgadmin.qcpp1.net/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/qgadmin.qpdp1.net/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/qpx.googleflights.net/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/qualysapi.qatp1.net/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/qualysapi.qcpp1.net/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/qualysapi.qpdp1.net/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/qualysguard.qatp1.net/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/qualysguard.qcpp1.net/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/qualysguard.qpdp1.net/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/recaptcha.net/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/recaptcha-cn.net/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/redirector.bdn.dev/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/redirector.c.chat.google.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/redirector.c.mail.google.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/redirector.c.pack.google.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/redirector.c.play.google.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/redirector.c.youtubeeducation.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/redirector.gcpcdn.gvt1.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/redirector.gvt1.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/redirector.offline-maps.gvt1.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/redirector.snap.gvt1.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/redirector.xn--ngstr-lra8j.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/regioninfo-pa.googleapis.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/safebrowsing.googleapis.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/scanservice1.qatp1.net/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/scanservice1.qcpp1.net/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/scanservice1.qpdp1.net/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/service.urchin.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/settings.xn--9trs65b.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/ssl-google-analytics.l.google.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/ssl.gstatic.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/staging-controlbe.floonet.goog/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/staging-databe.floonet.goog/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/staging-regioninfo-pa.googleapis.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/staging.databe.floonet.goog/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/support.1ucrs.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/tac.googleapis.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/test.bugs-qa.chromium.org/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/test.gbugs-qa.chromium.org/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/tools.google.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/tools.l.google.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/update.crashlytics.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/update.googleapis.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/wear.googleapis.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/www-google-analytics.l.google.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/www-googletagmanager.l.google.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/www.destinationurl.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/www.googleadapis.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/www.gstatic.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/www.pxcc.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/xn--9kr7l.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/xn--flw351e.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/applemdm.corp.google.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/dns.corp.google.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/g3doc.corp.google.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/gmskiosk-ssl.corp.google.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/go.corp.google.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/gorom.corp.google.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/goto.corp.google.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/l2-uberproxy.corp.google.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/logger.corp.google.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/logger-dev.corp.google.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/login.corp.google.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/proxyconfig.corp.google.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/rapture-autopush.corp.google.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/rapture.corp.google.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/rapture-prod.corp.google.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/rapture-test.corp.google.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/r.cert.corp.google.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/ssh-relay.corp.google.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/sslredirect.corp.google.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/streaming-uberproxy.corp.google.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/streaming-uberproxy-rotation.corp.google.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/sup.corp.google.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/supportcenter.corp.google.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/sup-ssh-relay2.corp.google.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/sup-ssh-relay.corp.google.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/techstop.corp.google.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/uberproxy4.corp.google.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/uberproxy6.corp.google.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/uberproxy.corp.google.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/uberproxy-debug4.corp.google.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/uberproxy-debug.corp.google.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/uberproxy-pen-redirect.corp.google.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/vext.corp.google.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/sup.l.google.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/uberproxy-with-cn.l.google.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/uberproxy-with-cn4.l.google.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/uberproxy-with-cn6.l.google.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
-[/qiao-cn.com/]https://doh-812b2ef1-AdGuard.doh.pub:443/dns-query https://125647.alidns.com/dns-quer
+[/265.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/2mdn-cn.net/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/2mdn.net/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/admob-cn.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/adservice.google.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/ai.ytimg.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/app-measurement-cn.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/app-measurement.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/apps5.oingo.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/avail.googleflights.net/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/beacons.gcp.gvt2.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/beacons.gvt2.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/beacons2.gvt2.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/beacons3.gvt2.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/borgmon.adz.google.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/c.admob.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/c.android.clients.google.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/cache-management-prod.google.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/cache.pack.google.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/checkin.gstatic.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/clickserve.cc-dt.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/clickserve.dartsearch.net/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/clickserver.googleads.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/clientservices.googleapis.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/cn.widevine.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/cnappinstall.googleadapis.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/connectivitycheck.gstatic.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/content.googleadapis.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/crashlyticsreports-pa.googleapis.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/crl.pki.goog/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/csi.gstatic.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/dartsearch-cn.net/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/dg-meta.video.google.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/distribution.qatp1.net/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/distribution.qcpp1.net/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/distribution.qpdp1.net/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/dl.google.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/dl.l.google.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/doubleclick-cn.net/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/doubleclick.net/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/download.mlcc.google.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/download.qatp1.net/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/download.qcpp1.net/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/download.qpdp1.net/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/download.tensorflow.google.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/emmapplecodevice.googleapis.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/firebase-settings.crashlytics.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/fontfiles.googleadapis.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/fontfiles.googleapis.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/fonts.googleadapis.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/fonts.googleapis.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/fonts.gstatic.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/g0.gstatic.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/g1.gstatic.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/g2.gstatic.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/g3.gstatic.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/gonglchuangl.net/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/gongyichuangyi.net/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/google-analytics-cn.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/google-analytics.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/googleadservices-cn.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/googleadservices.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/googleanalytics.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/googleapis-cn.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/googleapps-cn.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/googleflights-cn.net/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/googleoptimize-cn.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/googleoptimize.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/googleplex.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/googlesyndication-cn.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/googlesyndication.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/googletagmanager-cn.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/googletagmanager.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/googletagservices-cn.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/googletagservices.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/googletraveladservices-cn.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/googletraveladservices.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/googlevads-cn.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/goto.google.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/gstatic-cn.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/gstaticadssl.l.google.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/gtm.oasisfeng.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/gvt1-cn.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/gvt2-cn.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/imasdk.googleapis.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/monitoring.qatp1.net/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/monitoring.qcpp1.net/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/monitoring.qpdp1.net/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/ocsp.pki.goog/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/pagead-googlehosted.l.google.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/performanceparameters.googleapis.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/pki-goog.l.google.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/play.1ucrs.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/prod-controlbe.floonet.goog/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/prod-databe.floonet.goog/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/prod.databe.floonet.goog/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/qagpublic.qatp1.net/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/qagpublic.qcpp1.net/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/qagpublic.qpdp1.net/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/qgadmin.qatp1.net/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/qgadmin.qcpp1.net/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/qgadmin.qpdp1.net/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/qpx.googleflights.net/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/qualysapi.qatp1.net/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/qualysapi.qcpp1.net/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/qualysapi.qpdp1.net/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/qualysguard.qatp1.net/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/qualysguard.qcpp1.net/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/qualysguard.qpdp1.net/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/recaptcha.net/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/recaptcha-cn.net/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/redirector.bdn.dev/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/redirector.c.chat.google.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/redirector.c.mail.google.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/redirector.c.pack.google.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/redirector.c.play.google.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/redirector.c.youtubeeducation.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/redirector.gcpcdn.gvt1.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/redirector.gvt1.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/redirector.offline-maps.gvt1.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/redirector.snap.gvt1.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/redirector.xn--ngstr-lra8j.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/regioninfo-pa.googleapis.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/safebrowsing.googleapis.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/scanservice1.qatp1.net/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/scanservice1.qcpp1.net/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/scanservice1.qpdp1.net/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/service.urchin.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/settings.xn--9trs65b.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/ssl-google-analytics.l.google.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/ssl.gstatic.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/staging-controlbe.floonet.goog/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/staging-databe.floonet.goog/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/staging-regioninfo-pa.googleapis.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/staging.databe.floonet.goog/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/support.1ucrs.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/tac.googleapis.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/test.bugs-qa.chromium.org/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/test.gbugs-qa.chromium.org/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/tools.google.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/tools.l.google.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/update.crashlytics.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/update.googleapis.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/wear.googleapis.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/www-google-analytics.l.google.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/www-googletagmanager.l.google.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/www.destinationurl.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/www.googleadapis.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/www.gstatic.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/www.pxcc.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/xn--9kr7l.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/xn--flw351e.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/applemdm.corp.google.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/dns.corp.google.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/g3doc.corp.google.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/gmskiosk-ssl.corp.google.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/go.corp.google.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/gorom.corp.google.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/goto.corp.google.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/l2-uberproxy.corp.google.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/logger.corp.google.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/logger-dev.corp.google.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/login.corp.google.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/proxyconfig.corp.google.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/rapture-autopush.corp.google.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/rapture.corp.google.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/rapture-prod.corp.google.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/rapture-test.corp.google.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/r.cert.corp.google.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/ssh-relay.corp.google.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/sslredirect.corp.google.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/streaming-uberproxy.corp.google.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/streaming-uberproxy-rotation.corp.google.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/sup.corp.google.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/supportcenter.corp.google.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/sup-ssh-relay2.corp.google.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/sup-ssh-relay.corp.google.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/techstop.corp.google.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/uberproxy4.corp.google.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/uberproxy6.corp.google.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/uberproxy.corp.google.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/uberproxy-debug4.corp.google.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/uberproxy-debug.corp.google.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/uberproxy-pen-redirect.corp.google.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/vext.corp.google.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/sup.l.google.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/uberproxy-with-cn.l.google.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/uberproxy-with-cn4.l.google.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/uberproxy-with-cn6.l.google.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
+[/qiao-cn.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
