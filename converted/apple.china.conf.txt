@@ -7,9 +7,6 @@
 [/adcdownload.apple.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
 [/amp-api-updates.apps.apple.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
 [/amp-api.media.apple.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
-[/api-p-ap-c.smoot.apple.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
-[/api-p-ap-d.smoot.apple.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
-[/api-p-ap-e.smoot.apple.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
 [/app-site-association.cdn-apple.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
 [/appldnld.apple.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
 [/appldnld.g.aaplimg.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
@@ -61,7 +58,6 @@
 [/gsp12-cn.ls.apple.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
 [/gsp13-cn.ls.apple.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
 [/gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
-[/gsp4-cn.ls.apple.com.edgekey.net/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
 [/gsp4-cn.ls.apple.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
 [/gsp5-cn.ls.apple.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
 [/gsp85-cn-ssl.ls.apple.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
@@ -71,7 +67,6 @@
 [/gspe19-cn.ls-apple.com.akadns.net/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
 [/gspe19-cn.ls.apple.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
 [/gspe21-ssl.ls.apple.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
-[/gspe21.ls.apple.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
 [/gspe35-ssl.ls.apple.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
 [/gspe79-cn-ssl.ls.apple.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
 [/guzzoni-apple-com.v.aaplimg.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
@@ -80,9 +75,7 @@
 [/iadsdk.apple.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
 [/icloud-cdn.icloud.com.akadns.net/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
 [/icloud.cdn-apple.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
-[/images.apple.com.akadns.net/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
 [/images.apple.com.edgekey.net.globalredir.akadns.net/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
-[/images.apple.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
 [/init-kt.apple.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
 [/init-p01md-lb.push-apple.com.akadns.net/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
 [/init-p01md.apple.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
@@ -169,6 +162,5 @@
 [/weather-map2.apple.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
 [/weatherkit.apple.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
 [/www.apple.com.edgekey.net.globalredir.akadns.net/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
-[/www.apple.com.edgekey.net/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
 [/www.apple.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
 [/xp.apple.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query
