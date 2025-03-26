@@ -3,6 +3,7 @@
 [/2mdn.net/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query https://125647.alidns.com/dns-query
 [/admob-cn.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query https://125647.alidns.com/dns-query
 [/adservice.google.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query https://125647.alidns.com/dns-query
+[/app-analytics-services.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query https://125647.alidns.com/dns-query
 [/app-measurement-cn.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query https://125647.alidns.com/dns-query
 [/app-measurement.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query https://125647.alidns.com/dns-query
 [/apps5.oingo.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query https://125647.alidns.com/dns-query
