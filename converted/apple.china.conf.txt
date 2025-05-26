@@ -27,6 +27,7 @@
 [/cds.apple.com.akadns.net/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query https://125647.alidns.com/dns-query
 [/cds.apple.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query https://125647.alidns.com/dns-query
 [/cdsassets.apple.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query https://125647.alidns.com/dns-query
+[/certs.apple.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query https://125647.alidns.com/dns-query
 [/cl1-cdn.origin-apple.com.akadns.net/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query https://125647.alidns.com/dns-query
 [/cl1.apple.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query https://125647.alidns.com/dns-query
 [/cl2-cn.apple.com/]https://doh-812b2ef1-AdGuard.doh.pub/dns-query https://125647.alidns.com/dns-query
