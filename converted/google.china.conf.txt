@@ -14,6 +14,7 @@
 [/beacons3.gvt2.com/]https://dns.alidns.com/dns-query
 [/c.admob.com/]https://dns.alidns.com/dns-query
 [/c.android.clients.google.com/]https://dns.alidns.com/dns-query
+[/c.pki.goog/]https://dns.alidns.com/dns-query
 [/cache-management-prod.google.com/]https://dns.alidns.com/dns-query
 [/cache.pack.google.com/]https://dns.alidns.com/dns-query
 [/checkin.gstatic.com/]https://dns.alidns.com/dns-query
