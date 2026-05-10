@@ -31,6 +31,7 @@
 [/cl1-cdn.origin-apple.com.akadns.net/]quic://dns.alidns.com/dns-query
 [/cl1.apple.com/]quic://dns.alidns.com/dns-query
 [/cl2-cn.apple.com/]quic://dns.alidns.com/dns-query
+[/cl2.apple.com.edgekey.net.globalredir.akadns.net/]quic://dns.alidns.com/dns-query
 [/cl2.apple.com/]quic://dns.alidns.com/dns-query
 [/cl3-cdn.origin-apple.com.akadns.net/]quic://dns.alidns.com/dns-query
 [/cl3.apple.com/]quic://dns.alidns.com/dns-query
@@ -56,6 +57,7 @@
 [/gs-loc-cn.apple.com/]quic://dns.alidns.com/dns-query
 [/gs-loc.apple.com/]quic://dns.alidns.com/dns-query
 [/gsp10-ssl-cn.ls.apple.com/]quic://dns.alidns.com/dns-query
+[/gsp11-cn.ls.apple.com/]quic://dns.alidns.com/dns-query
 [/gsp12-cn.ls.apple.com/]quic://dns.alidns.com/dns-query
 [/gsp13-cn.ls.apple.com/]quic://dns.alidns.com/dns-query
 [/gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net/]quic://dns.alidns.com/dns-query
@@ -74,8 +76,6 @@
 [/guzzoni.apple.com/]quic://dns.alidns.com/dns-query
 [/guzzoni.smoot.apple.com/]quic://dns.alidns.com/dns-query
 [/iadsdk.apple.com/]quic://dns.alidns.com/dns-query
-[/icloud-cdn.icloud.com.akadns.net/]quic://dns.alidns.com/dns-query
-[/icloud.cdn-apple.com/]quic://dns.alidns.com/dns-query
 [/images.apple.com.edgekey.net.globalredir.akadns.net/]quic://dns.alidns.com/dns-query
 [/init-kt.apple.com/]quic://dns.alidns.com/dns-query
 [/init-p01md-lb.push-apple.com.akadns.net/]quic://dns.alidns.com/dns-query
@@ -108,20 +108,16 @@
 [/mesu.apple.com/]quic://dns.alidns.com/dns-query
 [/ml.cdn-apple.com/]quic://dns.alidns.com/dns-query
 [/music.apple.com/]quic://dns.alidns.com/dns-query
-[/ocsp-lb.apple.com.akadns.net/]quic://dns.alidns.com/dns-query
 [/ocsp.apple.com/]quic://dns.alidns.com/dns-query
-[/ocsp2-lb.apple.com.akadns.net/]quic://dns.alidns.com/dns-query
 [/ocsp2.apple.com/]quic://dns.alidns.com/dns-query
 [/oscdn.apple.com/]quic://dns.alidns.com/dns-query
 [/oscdn.origin-apple.com.akadns.net/]quic://dns.alidns.com/dns-query
 [/osxapps.itunes.g.aaplimg.com/]quic://dns.alidns.com/dns-query
 [/pancake.apple.com/]quic://dns.alidns.com/dns-query
-[/pancake.cdn-apple.com.akadns.net/]quic://dns.alidns.com/dns-query
 [/pba0.apple.com/]quic://dns.alidns.com/dns-query
 [/probe.siri.apple.com/]quic://dns.alidns.com/dns-query
 [/prod-support.apple-support.akadns.net/]quic://dns.alidns.com/dns-query
 [/publicassets.cdn-apple.com/]quic://dns.alidns.com/dns-query
-[/reserve-prime.apple.com/]quic://dns.alidns.com/dns-query
 [/s.mzstatic.com/]quic://dns.alidns.com/dns-query
 [/seed-sequoia.siri.apple.com/]quic://dns.alidns.com/dns-query
 [/seed-swallow.siri.apple.com/]quic://dns.alidns.com/dns-query
