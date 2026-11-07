@@ -5,21 +5,22 @@ on:
     - cron: "0 1 * * *" # every day
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   convert_conf_files:
-    runs-on: ubuntu-latest
-    
+    # 固定 ubuntu-24.04，避免 ubuntu-latest 迁移到 Ubuntu 26 后 setup-python 找不到对应构建
+    runs-on: ubuntu-24.04
+
     steps:
     - name: Checkout code
-      uses: actions/checkout@v3
+      uses: actions/checkout@v5
 
     - name: Set up Python
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v6
       with:
-        python-version: 3.9
-    
-    - name: Install dependencies
-      run: pip3 install glob2
+        python-version: "3.13"
 
     - name: Convert Conf Files
       env:
@@ -40,7 +41,7 @@ jobs:
         fi
 
     - name: Push changes
-      uses: ad-m/github-push-action@v0.6.0
+      uses: ad-m/github-push-action@v0.8.0
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: master
