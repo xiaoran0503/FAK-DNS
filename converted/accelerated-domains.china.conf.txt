@@ -2748,6 +2748,7 @@
 [/21kk.cc/]quic://dns.alidns.com/dns-query
 [/21ks.net/]quic://dns.alidns.com/dns-query
 [/21kunpeng.com/]quic://dns.alidns.com/dns-query
+[/21kyj.com/]quic://dns.alidns.com/dns-query
 [/21ld.com/]quic://dns.alidns.com/dns-query
 [/21maoyi.com/]quic://dns.alidns.com/dns-query
 [/21mcu.com/]quic://dns.alidns.com/dns-query
@@ -2844,6 +2845,7 @@
 [/22n.com/]quic://dns.alidns.com/dns-query
 [/22net.com/]quic://dns.alidns.com/dns-query
 [/22plc.com/]quic://dns.alidns.com/dns-query
+[/22ppt.com/]quic://dns.alidns.com/dns-query
 [/22pq.com/]quic://dns.alidns.com/dns-query
 [/22tianbo.com/]quic://dns.alidns.com/dns-query
 [/22tj.com/]quic://dns.alidns.com/dns-query
@@ -9078,6 +9080,7 @@
 [/9you.com/]quic://dns.alidns.com/dns-query
 [/9you.net/]quic://dns.alidns.com/dns-query
 [/9yread.com/]quic://dns.alidns.com/dns-query
+[/9yuanlive.com/]quic://dns.alidns.com/dns-query
 [/9yue.com/]quic://dns.alidns.com/dns-query
 [/9yuntu.com/]quic://dns.alidns.com/dns-query
 [/9yuonline.com/]quic://dns.alidns.com/dns-query
@@ -9134,6 +9137,7 @@
 [/a61cee76f4df41b1.com/]quic://dns.alidns.com/dns-query
 [/a6562752811032.beer/]quic://dns.alidns.com/dns-query
 [/a6api.com/]quic://dns.alidns.com/dns-query
+[/a6api.vip/]quic://dns.alidns.com/dns-query
 [/a6h8.com/]quic://dns.alidns.com/dns-query
 [/a700in.ren/]quic://dns.alidns.com/dns-query
 [/a75d755806b1095d.com/]quic://dns.alidns.com/dns-query
@@ -9813,6 +9817,7 @@
 [/agnaw.com/]quic://dns.alidns.com/dns-query
 [/agpolis.com/]quic://dns.alidns.com/dns-query
 [/agrantsem.com/]quic://dns.alidns.com/dns-query
+[/agriglobaltradeai.com/]quic://dns.alidns.com/dns-query
 [/agriotcloud.com/]quic://dns.alidns.com/dns-query
 [/agrittex.com/]quic://dns.alidns.com/dns-query
 [/agrochemshow.com/]quic://dns.alidns.com/dns-query
@@ -10478,6 +10483,7 @@
 [/airtofly.com/]quic://dns.alidns.com/dns-query
 [/airtu.me/]quic://dns.alidns.com/dns-query
 [/airwh.com/]quic://dns.alidns.com/dns-query
+[/airxizang.com/]quic://dns.alidns.com/dns-query
 [/aisanrenxing.com/]quic://dns.alidns.com/dns-query
 [/aisaohuo.com/]quic://dns.alidns.com/dns-query
 [/aisbeijing.com/]quic://dns.alidns.com/dns-query
@@ -10841,6 +10847,7 @@
 [/alictf.com/]quic://dns.alidns.com/dns-query
 [/alidayu.com/]quic://dns.alidns.com/dns-query
 [/aliddmall.com/]quic://dns.alidns.com/dns-query
+[/alidns-2.com/]quic://dns.alidns.com/dns-query
 [/alidns.com/]quic://dns.alidns.com/dns-query
 [/alidns.net/]quic://dns.alidns.com/dns-query
 [/alidnsv122.com/]quic://dns.alidns.com/dns-query
@@ -12465,6 +12472,7 @@
 [/atcloudbox.com/]quic://dns.alidns.com/dns-query
 [/atcontainer.com/]quic://dns.alidns.com/dns-query
 [/atcpu.com/]quic://dns.alidns.com/dns-query
+[/atengyun.com/]quic://dns.alidns.com/dns-query
 [/aterminal.net/]quic://dns.alidns.com/dns-query
 [/atfeng.com/]quic://dns.alidns.com/dns-query
 [/atgbiotechnology.com/]quic://dns.alidns.com/dns-query
@@ -19785,6 +19793,7 @@
 [/chaoyi996.com/]quic://dns.alidns.com/dns-query
 [/chaoyinjiu.com/]quic://dns.alidns.com/dns-query
 [/chaoyuesd.com/]quic://dns.alidns.com/dns-query
+[/chaoyun168.com/]quic://dns.alidns.com/dns-query
 [/chaozhoudaily.com/]quic://dns.alidns.com/dns-query
 [/chaozhouyin.com/]quic://dns.alidns.com/dns-query
 [/chaozuo.com/]quic://dns.alidns.com/dns-query
@@ -19813,6 +19822,7 @@
 [/chatairc.com/]quic://dns.alidns.com/dns-query
 [/chatanywhere.tech/]quic://dns.alidns.com/dns-query
 [/chatartpro.com/]quic://dns.alidns.com/dns-query
+[/chatdoing.com/]quic://dns.alidns.com/dns-query
 [/chateaustarriver.com/]quic://dns.alidns.com/dns-query
 [/chatglm.site/]quic://dns.alidns.com/dns-query
 [/chatgptboke.com/]quic://dns.alidns.com/dns-query
@@ -19820,6 +19830,7 @@
 [/chatmindai.net/]quic://dns.alidns.com/dns-query
 [/chatnos.com/]quic://dns.alidns.com/dns-query
 [/chatopera.com/]quic://dns.alidns.com/dns-query
+[/chatppt.com/]quic://dns.alidns.com/dns-query
 [/chatqp.net/]quic://dns.alidns.com/dns-query
 [/chatvgx.com/]quic://dns.alidns.com/dns-query
 [/chatyygpt.com/]quic://dns.alidns.com/dns-query
@@ -20177,6 +20188,7 @@
 [/chezvi.com/]quic://dns.alidns.com/dns-query
 [/chfsmartad.com/]quic://dns.alidns.com/dns-query
 [/chgcw.com/]quic://dns.alidns.com/dns-query
+[/chggzh.com/]quic://dns.alidns.com/dns-query
 [/chghouse.org/]quic://dns.alidns.com/dns-query
 [/chgi.net/]quic://dns.alidns.com/dns-query
 [/chgie.com/]quic://dns.alidns.com/dns-query
@@ -22973,6 +22985,7 @@
 [/cndi-bj.com/]quic://dns.alidns.com/dns-query
 [/cndi.com/]quic://dns.alidns.com/dns-query
 [/cndids.com/]quic://dns.alidns.com/dns-query
+[/cndik.com/]quic://dns.alidns.com/dns-query
 [/cndingli.com/]quic://dns.alidns.com/dns-query
 [/cndingxi.com/]quic://dns.alidns.com/dns-query
 [/cndits.com/]quic://dns.alidns.com/dns-query
@@ -23077,6 +23090,7 @@
 [/cngin.com/]quic://dns.alidns.com/dns-query
 [/cngma.com/]quic://dns.alidns.com/dns-query
 [/cngold.org/]quic://dns.alidns.com/dns-query
+[/cngoldprice.com/]quic://dns.alidns.com/dns-query
 [/cngoldres.com/]quic://dns.alidns.com/dns-query
 [/cngolf.tv/]quic://dns.alidns.com/dns-query
 [/cngongfu.com/]quic://dns.alidns.com/dns-query
@@ -23759,6 +23773,7 @@
 [/codeweixin.com/]quic://dns.alidns.com/dns-query
 [/codewoody.com/]quic://dns.alidns.com/dns-query
 [/codex-watch.com/]quic://dns.alidns.com/dns-query
+[/codexplus.vip/]quic://dns.alidns.com/dns-query
 [/codezyw.com/]quic://dns.alidns.com/dns-query
 [/codigoscript.com/]quic://dns.alidns.com/dns-query
 [/coding-io.com/]quic://dns.alidns.com/dns-query
@@ -25687,6 +25702,7 @@
 [/cuumo.com/]quic://dns.alidns.com/dns-query
 [/cux.cc/]quic://dns.alidns.com/dns-query
 [/cuz.cx/]quic://dns.alidns.com/dns-query
+[/cuzkeplox.com/]quic://dns.alidns.com/dns-query
 [/cuzz.site/]quic://dns.alidns.com/dns-query
 [/cvc898cvc.com/]quic://dns.alidns.com/dns-query
 [/cvchome.com/]quic://dns.alidns.com/dns-query
@@ -26098,6 +26114,7 @@
 [/czyuxing.com/]quic://dns.alidns.com/dns-query
 [/czyxba.com/]quic://dns.alidns.com/dns-query
 [/czyzd.com/]quic://dns.alidns.com/dns-query
+[/czzdpb.com/]quic://dns.alidns.com/dns-query
 [/czzqp.com/]quic://dns.alidns.com/dns-query
 [/czzsw.com/]quic://dns.alidns.com/dns-query
 [/czztjj.com/]quic://dns.alidns.com/dns-query
@@ -26497,6 +26514,7 @@
 [/damijing.com/]quic://dns.alidns.com/dns-query
 [/damingweb.com/]quic://dns.alidns.com/dns-query
 [/damiw.com/]quic://dns.alidns.com/dns-query
+[/damixiao.com/]quic://dns.alidns.com/dns-query
 [/damndigital.com/]quic://dns.alidns.com/dns-query
 [/damo-academy.com/]quic://dns.alidns.com/dns-query
 [/damodel.com/]quic://dns.alidns.com/dns-query
@@ -26714,6 +26732,7 @@
 [/darknavy.org/]quic://dns.alidns.com/dns-query
 [/darknight.games/]quic://dns.alidns.com/dns-query
 [/darmao.com/]quic://dns.alidns.com/dns-query
+[/darmoshark.cc/]quic://dns.alidns.com/dns-query
 [/darongcheng.com/]quic://dns.alidns.com/dns-query
 [/darryring.com/]quic://dns.alidns.com/dns-query
 [/dartchina.com/]quic://dns.alidns.com/dns-query
@@ -27131,6 +27150,7 @@
 [/ddedush.com/]quic://dns.alidns.com/dns-query
 [/ddfans.com/]quic://dns.alidns.com/dns-query
 [/ddfchina.com/]quic://dns.alidns.com/dns-query
+[/ddfl5.com/]quic://dns.alidns.com/dns-query
 [/ddfresh.net/]quic://dns.alidns.com/dns-query
 [/ddfzb.com/]quic://dns.alidns.com/dns-query
 [/ddgjjj.com/]quic://dns.alidns.com/dns-query
@@ -27687,6 +27707,7 @@
 [/dggcyy.com/]quic://dns.alidns.com/dns-query
 [/dggdk.com/]quic://dns.alidns.com/dns-query
 [/dgggs.com/]quic://dns.alidns.com/dns-query
+[/dgghj.ltd/]quic://dns.alidns.com/dns-query
 [/dgghy.com/]quic://dns.alidns.com/dns-query
 [/dggjqw.com/]quic://dns.alidns.com/dns-query
 [/dggjyy.com/]quic://dns.alidns.com/dns-query
@@ -28020,6 +28041,7 @@
 [/dicila-china.com/]quic://dns.alidns.com/dns-query
 [/dicom365.com/]quic://dns.alidns.com/dns-query
 [/dictall.com/]quic://dns.alidns.com/dns-query
+[/dida.com/]quic://dns.alidns.com/dns-query
 [/dida110.com/]quic://dns.alidns.com/dns-query
 [/dida365.com/]quic://dns.alidns.com/dns-query
 [/didabds.com/]quic://dns.alidns.com/dns-query
@@ -28537,6 +28559,7 @@
 [/dlxk.com/]quic://dns.alidns.com/dns-query
 [/dlxmicro.com/]quic://dns.alidns.com/dns-query
 [/dlxww.com/]quic://dns.alidns.com/dns-query
+[/dly-cn.com/]quic://dns.alidns.com/dns-query
 [/dly56.com/]quic://dns.alidns.com/dns-query
 [/dlyy365.com/]quic://dns.alidns.com/dns-query
 [/dlzb.com/]quic://dns.alidns.com/dns-query
@@ -31009,6 +31032,7 @@
 [/ef360.com/]quic://dns.alidns.com/dns-query
 [/ef360.net/]quic://dns.alidns.com/dns-query
 [/ef369594911012.beer/]quic://dns.alidns.com/dns-query
+[/efaka.net/]quic://dns.alidns.com/dns-query
 [/efang.tv/]quic://dns.alidns.com/dns-query
 [/efangwang.com/]quic://dns.alidns.com/dns-query
 [/efapiao.com/]quic://dns.alidns.com/dns-query
@@ -33092,6 +33116,7 @@
 [/feelcars.com/]quic://dns.alidns.com/dns-query
 [/feelchat.net/]quic://dns.alidns.com/dns-query
 [/feelec.net/]quic://dns.alidns.com/dns-query
+[/feelfish.com/]quic://dns.alidns.com/dns-query
 [/feelsoar.com/]quic://dns.alidns.com/dns-query
 [/feemoo.com/]quic://dns.alidns.com/dns-query
 [/feemoo.hk/]quic://dns.alidns.com/dns-query
@@ -33273,6 +33298,7 @@
 [/felicitysolar.com/]quic://dns.alidns.com/dns-query
 [/feling.net/]quic://dns.alidns.com/dns-query
 [/felink.com/]quic://dns.alidns.com/dns-query
+[/felix-fang.life/]quic://dns.alidns.com/dns-query
 [/felix021.com/]quic://dns.alidns.com/dns-query
 [/felizpg.com/]quic://dns.alidns.com/dns-query
 [/felmvip.com/]quic://dns.alidns.com/dns-query
@@ -33540,6 +33566,7 @@
 [/fhd001.com/]quic://dns.alidns.com/dns-query
 [/fheb-four.com/]quic://dns.alidns.com/dns-query
 [/fheb-six.com/]quic://dns.alidns.com/dns-query
+[/fhezyk.com/]quic://dns.alidns.com/dns-query
 [/fhfxys.com/]quic://dns.alidns.com/dns-query
 [/fhgame.com/]quic://dns.alidns.com/dns-query
 [/fhgjds.com/]quic://dns.alidns.com/dns-query
@@ -34295,6 +34322,7 @@
 [/fosstea.com/]quic://dns.alidns.com/dns-query
 [/fosun-uhi.com/]quic://dns.alidns.com/dns-query
 [/fosun.com/]quic://dns.alidns.com/dns-query
+[/fosung.com/]quic://dns.alidns.com/dns-query
 [/fosunhealth.com/]quic://dns.alidns.com/dns-query
 [/fosunholiday.com/]quic://dns.alidns.com/dns-query
 [/fosunmetal.com/]quic://dns.alidns.com/dns-query
@@ -36151,6 +36179,7 @@
 [/gdshunna.net/]quic://dns.alidns.com/dns-query
 [/gdshuojin.com/]quic://dns.alidns.com/dns-query
 [/gdsia.net/]quic://dns.alidns.com/dns-query
+[/gdsicsemi.com/]quic://dns.alidns.com/dns-query
 [/gdsjqr.com/]quic://dns.alidns.com/dns-query
 [/gdsjx.com/]quic://dns.alidns.com/dns-query
 [/gdsjxjy.com/]quic://dns.alidns.com/dns-query
@@ -37623,6 +37652,7 @@
 [/gongkaohub.com/]quic://dns.alidns.com/dns-query
 [/gongkaoleida.com/]quic://dns.alidns.com/dns-query
 [/gongkaowo.com/]quic://dns.alidns.com/dns-query
+[/gongke.net/]quic://dns.alidns.com/dns-query
 [/gongkong.com/]quic://dns.alidns.com/dns-query
 [/gongkongbpo.com/]quic://dns.alidns.com/dns-query
 [/gongkongedu.com/]quic://dns.alidns.com/dns-query
@@ -38039,6 +38069,7 @@
 [/greenits.net/]quic://dns.alidns.com/dns-query
 [/greenlandcn.com/]quic://dns.alidns.com/dns-query
 [/greenlandsc.com/]quic://dns.alidns.com/dns-query
+[/greennet-inc.com/]quic://dns.alidns.com/dns-query
 [/greenpine.cc/]quic://dns.alidns.com/dns-query
 [/greenswolf.com/]quic://dns.alidns.com/dns-query
 [/greentomail.com/]quic://dns.alidns.com/dns-query
@@ -38911,6 +38942,7 @@
 [/guyuenglish.com/]quic://dns.alidns.com/dns-query
 [/guyungame.com/]quic://dns.alidns.com/dns-query
 [/guyuns.asia/]quic://dns.alidns.com/dns-query
+[/guzaza.com/]quic://dns.alidns.com/dns-query
 [/guzhang.com/]quic://dns.alidns.com/dns-query
 [/guzhenm.com/]quic://dns.alidns.com/dns-query
 [/guzhongtrade.com/]quic://dns.alidns.com/dns-query
@@ -40656,6 +40688,7 @@
 [/gyaqyy.com/]quic://dns.alidns.com/dns-query
 [/gyb086.com/]quic://dns.alidns.com/dns-query
 [/gybyscy.com/]quic://dns.alidns.com/dns-query
+[/gyccwx.com/]quic://dns.alidns.com/dns-query
 [/gycharm.com/]quic://dns.alidns.com/dns-query
 [/gycode.com/]quic://dns.alidns.com/dns-query
 [/gyddos.com/]quic://dns.alidns.com/dns-query
@@ -42124,6 +42157,7 @@
 [/haohuan.com/]quic://dns.alidns.com/dns-query
 [/haohuanjiao.com/]quic://dns.alidns.com/dns-query
 [/haohuoyuan.com/]quic://dns.alidns.com/dns-query
+[/haohuxx.com/]quic://dns.alidns.com/dns-query
 [/haointl.com/]quic://dns.alidns.com/dns-query
 [/haoinvest.com/]quic://dns.alidns.com/dns-query
 [/haoji.me/]quic://dns.alidns.com/dns-query
@@ -42586,6 +42620,7 @@
 [/hbgrb.net/]quic://dns.alidns.com/dns-query
 [/hbgroups.com/]quic://dns.alidns.com/dns-query
 [/hbgsetc.com/]quic://dns.alidns.com/dns-query
+[/hbgsoft.com/]quic://dns.alidns.com/dns-query
 [/hbgswl.com/]quic://dns.alidns.com/dns-query
 [/hbgwy.org/]quic://dns.alidns.com/dns-query
 [/hbgzh.com/]quic://dns.alidns.com/dns-query
@@ -43120,6 +43155,7 @@
 [/heartide.com/]quic://dns.alidns.com/dns-query
 [/heartinsti.com/]quic://dns.alidns.com/dns-query
 [/heartxin.com/]quic://dns.alidns.com/dns-query
+[/heartyong.com/]quic://dns.alidns.com/dns-query
 [/heating-sh.com/]quic://dns.alidns.com/dns-query
 [/heatingtrace.com/]quic://dns.alidns.com/dns-query
 [/heavenlywind.cc/]quic://dns.alidns.com/dns-query
@@ -43986,6 +44022,7 @@
 [/hibymusic.com/]quic://dns.alidns.com/dns-query
 [/hic.cloud/]quic://dns.alidns.com/dns-query
 [/hicane.com/]quic://dns.alidns.com/dns-query
+[/hicaspian.com/]quic://dns.alidns.com/dns-query
 [/hicdma.com/]quic://dns.alidns.com/dns-query
 [/hiceon.com/]quic://dns.alidns.com/dns-query
 [/hichain.com/]quic://dns.alidns.com/dns-query
@@ -44167,6 +44204,7 @@
 [/hiphotonics.com/]quic://dns.alidns.com/dns-query
 [/hipiao.com/]quic://dns.alidns.com/dns-query
 [/hipole.com/]quic://dns.alidns.com/dns-query
+[/hippoaixue.com/]quic://dns.alidns.com/dns-query
 [/hippoanimation.com/]quic://dns.alidns.com/dns-query
 [/hippter.com/]quic://dns.alidns.com/dns-query
 [/hipu.com/]quic://dns.alidns.com/dns-query
@@ -45920,6 +45958,7 @@
 [/htfilter.com/]quic://dns.alidns.com/dns-query
 [/htfpartner.com/]quic://dns.alidns.com/dns-query
 [/htfutures.com/]quic://dns.alidns.com/dns-query
+[/htfzsdk.com/]quic://dns.alidns.com/dns-query
 [/htg520.com/]quic://dns.alidns.com/dns-query
 [/htgjjl.com/]quic://dns.alidns.com/dns-query
 [/htgkdz.com/]quic://dns.alidns.com/dns-query
@@ -50124,6 +50163,7 @@
 [/ipguishu.com/]quic://dns.alidns.com/dns-query
 [/iphonediule.com/]quic://dns.alidns.com/dns-query
 [/ipin.com/]quic://dns.alidns.com/dns-query
+[/ipinfo.cv/]quic://dns.alidns.com/dns-query
 [/ipingyao.com/]quic://dns.alidns.com/dns-query
 [/ipinyou.com/]quic://dns.alidns.com/dns-query
 [/ipip.net/]quic://dns.alidns.com/dns-query
@@ -52131,6 +52171,7 @@
 [/jiayaw.com/]quic://dns.alidns.com/dns-query
 [/jiayi56.com/]quic://dns.alidns.com/dns-query
 [/jiayin618.com/]quic://dns.alidns.com/dns-query
+[/jiayinglive.com/]quic://dns.alidns.com/dns-query
 [/jiayougo.com/]quic://dns.alidns.com/dns-query
 [/jiayoujsq.com/]quic://dns.alidns.com/dns-query
 [/jiayouxueba.com/]quic://dns.alidns.com/dns-query
@@ -53838,6 +53879,7 @@
 [/joyinvleah.com/]quic://dns.alidns.com/dns-query
 [/joyj.com/]quic://dns.alidns.com/dns-query
 [/joymeng.com/]quic://dns.alidns.com/dns-query
+[/joymeter.com/]quic://dns.alidns.com/dns-query
 [/joyncleon.com/]quic://dns.alidns.com/dns-query
 [/joynext.com/]quic://dns.alidns.com/dns-query
 [/joyochem.com/]quic://dns.alidns.com/dns-query
@@ -53852,6 +53894,7 @@
 [/joyson.com/]quic://dns.alidns.com/dns-query
 [/joyssl.com/]quic://dns.alidns.com/dns-query
 [/joystay.net/]quic://dns.alidns.com/dns-query
+[/joysuch.com/]quic://dns.alidns.com/dns-query
 [/joysung.com/]quic://dns.alidns.com/dns-query
 [/joysunsh.com/]quic://dns.alidns.com/dns-query
 [/joytest.org/]quic://dns.alidns.com/dns-query
@@ -55528,6 +55571,7 @@
 [/jzxjcf.com/]quic://dns.alidns.com/dns-query
 [/jzxs.com/]quic://dns.alidns.com/dns-query
 [/jzygczx.com/]quic://dns.alidns.com/dns-query
+[/jzyhp.com/]quic://dns.alidns.com/dns-query
 [/jzyqyb.com/]quic://dns.alidns.com/dns-query
 [/jzyqzypg.com/]quic://dns.alidns.com/dns-query
 [/jzyx.com/]quic://dns.alidns.com/dns-query
@@ -56035,6 +56079,7 @@
 [/kc-keycool.com/]quic://dns.alidns.com/dns-query
 [/kc0011.net/]quic://dns.alidns.com/dns-query
 [/kc87.com/]quic://dns.alidns.com/dns-query
+[/kcallme.com/]quic://dns.alidns.com/dns-query
 [/kcbebank.com/]quic://dns.alidns.com/dns-query
 [/kccidc.com/]quic://dns.alidns.com/dns-query
 [/kccn.net/]quic://dns.alidns.com/dns-query
@@ -59933,6 +59978,7 @@
 [/linzihy.com/]quic://dns.alidns.com/dns-query
 [/lion1ou.tech/]quic://dns.alidns.com/dns-query
 [/lionaka.com/]quic://dns.alidns.com/dns-query
+[/liongege.com/]quic://dns.alidns.com/dns-query
 [/lionit.net/]quic://dns.alidns.com/dns-query
 [/lionkingsoft.com/]quic://dns.alidns.com/dns-query
 [/lionmac.com/]quic://dns.alidns.com/dns-query
@@ -60773,6 +60819,7 @@
 [/lookvin.com/]quic://dns.alidns.com/dns-query
 [/loome.net/]quic://dns.alidns.com/dns-query
 [/loonapp.com/]quic://dns.alidns.com/dns-query
+[/loong1.com/]quic://dns.alidns.com/dns-query
 [/loong3d.com/]quic://dns.alidns.com/dns-query
 [/loongdriving.com/]quic://dns.alidns.com/dns-query
 [/loongnix.com/]quic://dns.alidns.com/dns-query
@@ -60879,6 +60926,7 @@
 [/lovgiin.com/]quic://dns.alidns.com/dns-query
 [/lovol.com/]quic://dns.alidns.com/dns-query
 [/lovology.com/]quic://dns.alidns.com/dns-query
+[/lowpowersemi.com/]quic://dns.alidns.com/dns-query
 [/loxpo.com/]quic://dns.alidns.com/dns-query
 [/loyalvalleycapital.com/]quic://dns.alidns.com/dns-query
 [/loyar.com/]quic://dns.alidns.com/dns-query
@@ -61186,6 +61234,7 @@
 [/luckyair.net/]quic://dns.alidns.com/dns-query
 [/luckychipsmaster.com/]quic://dns.alidns.com/dns-query
 [/luckycoffee.com/]quic://dns.alidns.com/dns-query
+[/luckycup.com/]quic://dns.alidns.com/dns-query
 [/luckyop.com/]quic://dns.alidns.com/dns-query
 [/luckyuyin.com/]quic://dns.alidns.com/dns-query
 [/luckyxp.net/]quic://dns.alidns.com/dns-query
@@ -61605,6 +61654,7 @@
 [/lxtuyoo.com/]quic://dns.alidns.com/dns-query
 [/lxtuyoogame.com/]quic://dns.alidns.com/dns-query
 [/lxtuyou.com/]quic://dns.alidns.com/dns-query
+[/lxtx777.com/]quic://dns.alidns.com/dns-query
 [/lxway.com/]quic://dns.alidns.com/dns-query
 [/lxway.net/]quic://dns.alidns.com/dns-query
 [/lxwlcn.com/]quic://dns.alidns.com/dns-query
@@ -63012,6 +63062,7 @@
 [/me-city.com/]quic://dns.alidns.com/dns-query
 [/me-game.com/]quic://dns.alidns.com/dns-query
 [/me-tencent.com/]quic://dns.alidns.com/dns-query
+[/me.news/]quic://dns.alidns.com/dns-query
 [/me1.ltd/]quic://dns.alidns.com/dns-query
 [/me360.com/]quic://dns.alidns.com/dns-query
 [/me361.com/]quic://dns.alidns.com/dns-query
@@ -63837,6 +63888,7 @@
 [/microcardio.com/]quic://dns.alidns.com/dns-query
 [/microchampion.com/]quic://dns.alidns.com/dns-query
 [/microdiag.com/]quic://dns.alidns.com/dns-query
+[/microdiode.com/]quic://dns.alidns.com/dns-query
 [/microdreams.com/]quic://dns.alidns.com/dns-query
 [/microfotos.com/]quic://dns.alidns.com/dns-query
 [/microfountain.com/]quic://dns.alidns.com/dns-query
@@ -64996,6 +65048,7 @@
 [/moshengliang.com/]quic://dns.alidns.com/dns-query
 [/moshou.com/]quic://dns.alidns.com/dns-query
 [/moshuai.cc/]quic://dns.alidns.com/dns-query
+[/moshuiai.com/]quic://dns.alidns.com/dns-query
 [/mosoga.net/]quic://dns.alidns.com/dns-query
 [/mossimo.net/]quic://dns.alidns.com/dns-query
 [/mossle.com/]quic://dns.alidns.com/dns-query
@@ -65074,6 +65127,7 @@
 [/mozhan.com/]quic://dns.alidns.com/dns-query
 [/mozhedun.com/]quic://dns.alidns.com/dns-query
 [/mozhenhau.com/]quic://dns.alidns.com/dns-query
+[/mozhenzhen.com/]quic://dns.alidns.com/dns-query
 [/mozichina.com/]quic://dns.alidns.com/dns-query
 [/mozigu.net/]quic://dns.alidns.com/dns-query
 [/mozillazg.com/]quic://dns.alidns.com/dns-query
@@ -66148,6 +66202,7 @@
 [/nanningxiaoou.com/]quic://dns.alidns.com/dns-query
 [/nanningyouhua.com/]quic://dns.alidns.com/dns-query
 [/nannjlnk.com/]quic://dns.alidns.com/dns-query
+[/nano-trix.com/]quic://dns.alidns.com/dns-query
 [/nanobody-biolab.com/]quic://dns.alidns.com/dns-query
 [/nanochrom.com/]quic://dns.alidns.com/dns-query
 [/nanoeast.net/]quic://dns.alidns.com/dns-query
@@ -66966,6 +67021,7 @@
 [/nhzs.com/]quic://dns.alidns.com/dns-query
 [/ni8.com/]quic://dns.alidns.com/dns-query
 [/ni93.com/]quic://dns.alidns.com/dns-query
+[/nia-teams.com/]quic://dns.alidns.com/dns-query
 [/nianchu.net/]quic://dns.alidns.com/dns-query
 [/nianhuawan.com/]quic://dns.alidns.com/dns-query
 [/niankawang.com/]quic://dns.alidns.com/dns-query
@@ -69364,6 +69420,7 @@
 [/opfibre.com/]quic://dns.alidns.com/dns-query
 [/opgw-oppc.com/]quic://dns.alidns.com/dns-query
 [/opinstallinit.com/]quic://dns.alidns.com/dns-query
+[/opinstallres.com/]quic://dns.alidns.com/dns-query
 [/opjmw1.ren/]quic://dns.alidns.com/dns-query
 [/opkjh.com/]quic://dns.alidns.com/dns-query
 [/oplay.net/]quic://dns.alidns.com/dns-query
@@ -71131,6 +71188,7 @@
 [/plob.org/]quic://dns.alidns.com/dns-query
 [/plopco.com/]quic://dns.alidns.com/dns-query
 [/plottersyservicioshdz.com/]quic://dns.alidns.com/dns-query
+[/plovercrest.com/]quic://dns.alidns.com/dns-query
 [/plsbd.com/]quic://dns.alidns.com/dns-query
 [/plsdeyy.com/]quic://dns.alidns.com/dns-query
 [/plsfybjy.com/]quic://dns.alidns.com/dns-query
@@ -71214,6 +71272,7 @@
 [/pnzpw.com/]quic://dns.alidns.com/dns-query
 [/pnzxyy.com/]quic://dns.alidns.com/dns-query
 [/po.co/]quic://dns.alidns.com/dns-query
+[/po1c0tw4b2.com/]quic://dns.alidns.com/dns-query
 [/po7ryumvkx34.com/]quic://dns.alidns.com/dns-query
 [/pobaby.net/]quic://dns.alidns.com/dns-query
 [/pobasoft.com/]quic://dns.alidns.com/dns-query
@@ -71535,6 +71594,7 @@
 [/ppwang.com/]quic://dns.alidns.com/dns-query
 [/ppwenda.com/]quic://dns.alidns.com/dns-query
 [/ppwfa.com/]quic://dns.alidns.com/dns-query
+[/ppwfund.com/]quic://dns.alidns.com/dns-query
 [/ppwow.cc/]quic://dns.alidns.com/dns-query
 [/ppwwyyxx.com/]quic://dns.alidns.com/dns-query
 [/ppx520.com/]quic://dns.alidns.com/dns-query
@@ -72430,6 +72490,7 @@
 [/qh24.com/]quic://dns.alidns.com/dns-query
 [/qh4321.com/]quic://dns.alidns.com/dns-query
 [/qh6bc.com/]quic://dns.alidns.com/dns-query
+[/qh7ptb6mc.com/]quic://dns.alidns.com/dns-query
 [/qhangyun.com/]quic://dns.alidns.com/dns-query
 [/qhass.org/]quic://dns.alidns.com/dns-query
 [/qhball.com/]quic://dns.alidns.com/dns-query
@@ -73060,6 +73121,7 @@
 [/qingshuxuetang.com/]quic://dns.alidns.com/dns-query
 [/qingsongchou.com/]quic://dns.alidns.com/dns-query
 [/qingsongjituan.com/]quic://dns.alidns.com/dns-query
+[/qingsongzhuan.online/]quic://dns.alidns.com/dns-query
 [/qingsonngxx.com/]quic://dns.alidns.com/dns-query
 [/qingstor.com/]quic://dns.alidns.com/dns-query
 [/qingtaoke.com/]quic://dns.alidns.com/dns-query
@@ -73534,6 +73596,7 @@
 [/qnzyy.com/]quic://dns.alidns.com/dns-query
 [/qoder.ai/]quic://dns.alidns.com/dns-query
 [/qoder.com/]quic://dns.alidns.com/dns-query
+[/qoder.sh/]quic://dns.alidns.com/dns-query
 [/qolai.com/]quic://dns.alidns.com/dns-query
 [/qooboo.com/]quic://dns.alidns.com/dns-query
 [/qoocc.com/]quic://dns.alidns.com/dns-query
@@ -73710,6 +73773,7 @@
 [/qqwmly.com/]quic://dns.alidns.com/dns-query
 [/qqwwr.com/]quic://dns.alidns.com/dns-query
 [/qqwys.net/]quic://dns.alidns.com/dns-query
+[/qqx.me/]quic://dns.alidns.com/dns-query
 [/qqxmail.com/]quic://dns.alidns.com/dns-query
 [/qqxs.la/]quic://dns.alidns.com/dns-query
 [/qqxsnew.net/]quic://dns.alidns.com/dns-query
@@ -74360,6 +74424,7 @@
 [/quxds.com/]quic://dns.alidns.com/dns-query
 [/quxianchang.com/]quic://dns.alidns.com/dns-query
 [/quxiang.work/]quic://dns.alidns.com/dns-query
+[/quxianzhan.com/]quic://dns.alidns.com/dns-query
 [/quxianzhuan.com/]quic://dns.alidns.com/dns-query
 [/quxiaxia.com/]quic://dns.alidns.com/dns-query
 [/quxingdong.com/]quic://dns.alidns.com/dns-query
@@ -75306,6 +75371,7 @@
 [/reserve-backend.dji.com/]quic://dns.alidns.com/dns-query
 [/reservehemu.com/]quic://dns.alidns.com/dns-query
 [/resheji.com/]quic://dns.alidns.com/dns-query
+[/reshg.com/]quic://dns.alidns.com/dns-query
 [/resistor.today/]quic://dns.alidns.com/dns-query
 [/resnics.com/]quic://dns.alidns.com/dns-query
 [/resona-wujl.com/]quic://dns.alidns.com/dns-query
@@ -76567,6 +76633,7 @@
 [/sanabuy.com/]quic://dns.alidns.com/dns-query
 [/sanaemio.com/]quic://dns.alidns.com/dns-query
 [/sanan-e.com/]quic://dns.alidns.com/dns-query
+[/sanan-semiconductor.com/]quic://dns.alidns.com/dns-query
 [/sananyiliao.com/]quic://dns.alidns.com/dns-query
 [/sanau.com/]quic://dns.alidns.com/dns-query
 [/sanbaiyun.com/]quic://dns.alidns.com/dns-query
@@ -79325,6 +79392,7 @@
 [/shhyhy.com/]quic://dns.alidns.com/dns-query
 [/shhzcj.com/]quic://dns.alidns.com/dns-query
 [/shi-ming.com/]quic://dns.alidns.com/dns-query
+[/shiabank.com/]quic://dns.alidns.com/dns-query
 [/shianzhixuan.com/]quic://dns.alidns.com/dns-query
 [/shibaili.com/]quic://dns.alidns.com/dns-query
 [/shibangchina.com/]quic://dns.alidns.com/dns-query
@@ -79522,6 +79590,7 @@
 [/shirenzuojia.com/]quic://dns.alidns.com/dns-query
 [/shiritianchengtech.com/]quic://dns.alidns.com/dns-query
 [/shirongzhaoye.com/]quic://dns.alidns.com/dns-query
+[/shirui3.com/]quic://dns.alidns.com/dns-query
 [/shisanzhi.com/]quic://dns.alidns.com/dns-query
 [/shiseidochina.com/]quic://dns.alidns.com/dns-query
 [/shishacharcoal.net/]quic://dns.alidns.com/dns-query
@@ -81188,6 +81257,7 @@
 [/sjzqcrl.com/]quic://dns.alidns.com/dns-query
 [/sjzrbapp.com/]quic://dns.alidns.com/dns-query
 [/sjzrmyz.com/]quic://dns.alidns.com/dns-query
+[/sjzsnncs.com/]quic://dns.alidns.com/dns-query
 [/sjzswtz.com/]quic://dns.alidns.com/dns-query
 [/sjzszz.com/]quic://dns.alidns.com/dns-query
 [/sjztd.com/]quic://dns.alidns.com/dns-query
@@ -81493,6 +81563,7 @@
 [/smcec.com/]quic://dns.alidns.com/dns-query
 [/smcic.net/]quic://dns.alidns.com/dns-query
 [/smcsrj.com/]quic://dns.alidns.com/dns-query
+[/smcyh.com/]quic://dns.alidns.com/dns-query
 [/smd-automation.com/]quic://dns.alidns.com/dns-query
 [/smd88.com/]quic://dns.alidns.com/dns-query
 [/smdcn.net/]quic://dns.alidns.com/dns-query
@@ -83160,6 +83231,7 @@
 [/sunbowhospital.com/]quic://dns.alidns.com/dns-query
 [/sunboxsoft.com/]quic://dns.alidns.com/dns-query
 [/sunboyu.com/]quic://dns.alidns.com/dns-query
+[/suncd.com/]quic://dns.alidns.com/dns-query
 [/suncereltd.com/]quic://dns.alidns.com/dns-query
 [/suncjm.com/]quic://dns.alidns.com/dns-query
 [/sundan.com/]quic://dns.alidns.com/dns-query
@@ -84666,6 +84738,7 @@
 [/szpowerfly.com/]quic://dns.alidns.com/dns-query
 [/szpra.com/]quic://dns.alidns.com/dns-query
 [/szprl.com/]quic://dns.alidns.com/dns-query
+[/szpro360.com/]quic://dns.alidns.com/dns-query
 [/szptxx.com/]quic://dns.alidns.com/dns-query
 [/szputy.com/]quic://dns.alidns.com/dns-query
 [/szqf.org/]quic://dns.alidns.com/dns-query
@@ -85690,6 +85763,7 @@
 [/tcoejox.shop/]quic://dns.alidns.com/dns-query
 [/tcomall.com/]quic://dns.alidns.com/dns-query
 [/tcp-crm.com/]quic://dns.alidns.com/dns-query
+[/tcp.cm/]quic://dns.alidns.com/dns-query
 [/tcp.hk/]quic://dns.alidns.com/dns-query
 [/tcp.mk/]quic://dns.alidns.com/dns-query
 [/tcp.pub/]quic://dns.alidns.com/dns-query
@@ -86130,6 +86204,7 @@
 [/tencentdb.com/]quic://dns.alidns.com/dns-query
 [/tencentddos.com/]quic://dns.alidns.com/dns-query
 [/tencentdevices.com/]quic://dns.alidns.com/dns-query
+[/tencentdi.com/]quic://dns.alidns.com/dns-query
 [/tencentdigitalassistant.com/]quic://dns.alidns.com/dns-query
 [/tencentdmp.com/]quic://dns.alidns.com/dns-query
 [/tencentdms.com/]quic://dns.alidns.com/dns-query
@@ -87304,6 +87379,7 @@
 [/tjqq.cc/]quic://dns.alidns.com/dns-query
 [/tjrenliziyuan.com/]quic://dns.alidns.com/dns-query
 [/tjrenmu.com/]quic://dns.alidns.com/dns-query
+[/tjrywlkj.online/]quic://dns.alidns.com/dns-query
 [/tjrzzl.com/]quic://dns.alidns.com/dns-query
 [/tjship.com/]quic://dns.alidns.com/dns-query
 [/tjsjnxh.com/]quic://dns.alidns.com/dns-query
@@ -87535,6 +87611,7 @@
 [/tmjj.com/]quic://dns.alidns.com/dns-query
 [/tmjob88.com/]quic://dns.alidns.com/dns-query
 [/tmkoo.com/]quic://dns.alidns.com/dns-query
+[/tmlyun.com/]quic://dns.alidns.com/dns-query
 [/tmoxrobot.com/]quic://dns.alidns.com/dns-query
 [/tmqd.me/]quic://dns.alidns.com/dns-query
 [/tmqmqj.com/]quic://dns.alidns.com/dns-query
@@ -87646,6 +87723,7 @@
 [/tokenglish.com/]quic://dns.alidns.com/dns-query
 [/tokenrhythm.studio/]quic://dns.alidns.com/dns-query
 [/tokensky.net/]quic://dns.alidns.com/dns-query
+[/tokentracker.cc/]quic://dns.alidns.com/dns-query
 [/tokimekiclub.org/]quic://dns.alidns.com/dns-query
 [/tokyo.skypixel.com/]quic://dns.alidns.com/dns-query
 [/tol24.com/]quic://dns.alidns.com/dns-query
@@ -88181,6 +88259,7 @@
 [/tracyclass.com/]quic://dns.alidns.com/dns-query
 [/tradaquan.com/]quic://dns.alidns.com/dns-query
 [/tradeblazer.net/]quic://dns.alidns.com/dns-query
+[/tradeflow.chat/]quic://dns.alidns.com/dns-query
 [/tradeleo.com/]quic://dns.alidns.com/dns-query
 [/trademanager.com/]quic://dns.alidns.com/dns-query
 [/trademessenger.com/]quic://dns.alidns.com/dns-query
@@ -88895,6 +88974,8 @@
 [/tushumi.cc/]quic://dns.alidns.com/dns-query
 [/tushumi.com/]quic://dns.alidns.com/dns-query
 [/tushuokeji.net/]quic://dns.alidns.com/dns-query
+[/tusiart.com/]quic://dns.alidns.com/dns-query
+[/tusiassets.com/]quic://dns.alidns.com/dns-query
 [/tusij.com/]quic://dns.alidns.com/dns-query
 [/tusiot.com/]quic://dns.alidns.com/dns-query
 [/tusmedicine.com/]quic://dns.alidns.com/dns-query
@@ -89167,6 +89248,7 @@
 [/tydns.cc/]quic://dns.alidns.com/dns-query
 [/tyduanju.com/]quic://dns.alidns.com/dns-query
 [/tyeat.com/]quic://dns.alidns.com/dns-query
+[/tyedo.com/]quic://dns.alidns.com/dns-query
 [/tyeec.net/]quic://dns.alidns.com/dns-query
 [/tyepi.com/]quic://dns.alidns.com/dns-query
 [/tyfo.com/]quic://dns.alidns.com/dns-query
@@ -90808,6 +90890,7 @@
 [/vip120.com/]quic://dns.alidns.com/dns-query
 [/vip1280.net/]quic://dns.alidns.com/dns-query
 [/vip150.com/]quic://dns.alidns.com/dns-query
+[/vip166.com/]quic://dns.alidns.com/dns-query
 [/vip3659k.com/]quic://dns.alidns.com/dns-query
 [/vip7337.com/]quic://dns.alidns.com/dns-query
 [/vip7787.com/]quic://dns.alidns.com/dns-query
@@ -91580,6 +91663,7 @@
 [/wagen.cc/]quic://dns.alidns.com/dns-query
 [/waha.cc/]quic://dns.alidns.com/dns-query
 [/wahahakid.org/]quic://dns.alidns.com/dns-query
+[/wahbouproduct.com/]quic://dns.alidns.com/dns-query
 [/waheaven.com/]quic://dns.alidns.com/dns-query
 [/wahlap.com/]quic://dns.alidns.com/dns-query
 [/wahlap.net/]quic://dns.alidns.com/dns-query
@@ -92337,6 +92421,7 @@
 [/webankwyd.com/]quic://dns.alidns.com/dns-query
 [/webarcx.com/]quic://dns.alidns.com/dns-query
 [/webcamx666.com/]quic://dns.alidns.com/dns-query
+[/webclose-whatsapp.com/]quic://dns.alidns.com/dns-query
 [/webdissector.com/]quic://dns.alidns.com/dns-query
 [/webetter-ad.com/]quic://dns.alidns.com/dns-query
 [/webfalse.com/]quic://dns.alidns.com/dns-query
@@ -92910,6 +92995,7 @@
 [/wendougee.com/]quic://dns.alidns.com/dns-query
 [/wendu.com/]quic://dns.alidns.com/dns-query
 [/wenduedu.com/]quic://dns.alidns.com/dns-query
+[/wenduoduo.com/]quic://dns.alidns.com/dns-query
 [/wenfangcn.com/]quic://dns.alidns.com/dns-query
 [/wenfangjushe.com/]quic://dns.alidns.com/dns-query
 [/wenfangnet.com/]quic://dns.alidns.com/dns-query
@@ -93395,6 +93481,7 @@
 [/whidf.com/]quic://dns.alidns.com/dns-query
 [/whidy.net/]quic://dns.alidns.com/dns-query
 [/whiie-expo.com/]quic://dns.alidns.com/dns-query
+[/whinbrook.com/]quic://dns.alidns.com/dns-query
 [/whinfo.net/]quic://dns.alidns.com/dns-query
 [/whir.net/]quic://dns.alidns.com/dns-query
 [/whisperto.net/]quic://dns.alidns.com/dns-query
@@ -97466,6 +97553,7 @@
 [/xingyunb.com/]quic://dns.alidns.com/dns-query
 [/xingyunba.com/]quic://dns.alidns.com/dns-query
 [/xingyungroup.com/]quic://dns.alidns.com/dns-query
+[/xingyunka.com/]quic://dns.alidns.com/dns-query
 [/xingyunol.com/]quic://dns.alidns.com/dns-query
 [/xingyusoft.net/]quic://dns.alidns.com/dns-query
 [/xingyutc.com/]quic://dns.alidns.com/dns-query
@@ -98541,6 +98629,7 @@
 [/xn--nyqx2gbsm8u0b.com/]quic://dns.alidns.com/dns-query
 [/xn--obym4a85u8ob.xn--ses554g/]quic://dns.alidns.com/dns-query
 [/xn--omrvgz6er31au6f.com/]quic://dns.alidns.com/dns-query
+[/xn--p3tw43cwvb.com/]quic://dns.alidns.com/dns-query
 [/xn--p5t28ylet56a.com/]quic://dns.alidns.com/dns-query
 [/xn--pss89e6xl72g.com/]quic://dns.alidns.com/dns-query
 [/xn--ptua509t.com/]quic://dns.alidns.com/dns-query
@@ -99025,6 +99114,7 @@
 [/xuebaclass.com/]quic://dns.alidns.com/dns-query
 [/xuebaike.net/]quic://dns.alidns.com/dns-query
 [/xuebangsoft.com/]quic://dns.alidns.com/dns-query
+[/xuebasou.com/]quic://dns.alidns.com/dns-query
 [/xuebawang.net/]quic://dns.alidns.com/dns-query
 [/xuecaijie.com/]quic://dns.alidns.com/dns-query
 [/xuecan.net/]quic://dns.alidns.com/dns-query
@@ -99100,6 +99190,7 @@
 [/xueshu5.com/]quic://dns.alidns.com/dns-query
 [/xueshuda.com/]quic://dns.alidns.com/dns-query
 [/xueshut.com/]quic://dns.alidns.com/dns-query
+[/xueshuweishi.com/]quic://dns.alidns.com/dns-query
 [/xueshuwenhai.com/]quic://dns.alidns.com/dns-query
 [/xuesongshuwood.com/]quic://dns.alidns.com/dns-query
 [/xuesw.com/]quic://dns.alidns.com/dns-query
@@ -99494,6 +99585,7 @@
 [/xxxmeng.com/]quic://dns.alidns.com/dns-query
 [/xxxxxx6.com/]quic://dns.alidns.com/dns-query
 [/xxxzzlm.org/]quic://dns.alidns.com/dns-query
+[/xxy-nirvana.com/]quic://dns.alidns.com/dns-query
 [/xxy5hi7j.lol/]quic://dns.alidns.com/dns-query
 [/xxycw.com/]quic://dns.alidns.com/dns-query
 [/xxyeyan.com/]quic://dns.alidns.com/dns-query
@@ -100324,6 +100416,7 @@
 [/yaypool.com/]quic://dns.alidns.com/dns-query
 [/yayu.net/]quic://dns.alidns.com/dns-query
 [/yayunjiqi.com/]quic://dns.alidns.com/dns-query
+[/yazhijian.com/]quic://dns.alidns.com/dns-query
 [/yazhongzhuangshi.com/]quic://dns.alidns.com/dns-query
 [/yazuo.com/]quic://dns.alidns.com/dns-query
 [/yazx.net/]quic://dns.alidns.com/dns-query
@@ -102539,6 +102632,7 @@
 [/yoozhe.com/]quic://dns.alidns.com/dns-query
 [/yoozhibo.net/]quic://dns.alidns.com/dns-query
 [/yoozoo.com/]quic://dns.alidns.com/dns-query
+[/yoplay.hk/]quic://dns.alidns.com/dns-query
 [/yopoint.cc/]quic://dns.alidns.com/dns-query
 [/yopoint.com/]quic://dns.alidns.com/dns-query
 [/yoptech.com/]quic://dns.alidns.com/dns-query
@@ -104851,6 +104945,7 @@
 [/zanig.com/]quic://dns.alidns.com/dns-query
 [/zanih.com/]quic://dns.alidns.com/dns-query
 [/zankee1955.com/]quic://dns.alidns.com/dns-query
+[/zanpc.com/]quic://dns.alidns.com/dns-query
 [/zanpic.com/]quic://dns.alidns.com/dns-query
 [/zanpu.com/]quic://dns.alidns.com/dns-query
 [/zantainet.com/]quic://dns.alidns.com/dns-query
@@ -104978,6 +105073,7 @@
 [/zbwbbs.com/]quic://dns.alidns.com/dns-query
 [/zbwdj.com/]quic://dns.alidns.com/dns-query
 [/zbwg.cc/]quic://dns.alidns.com/dns-query
+[/zbwhmedia.com/]quic://dns.alidns.com/dns-query
 [/zbwmy.com/]quic://dns.alidns.com/dns-query
 [/zbwpay.com/]quic://dns.alidns.com/dns-query
 [/zbxcck.com/]quic://dns.alidns.com/dns-query
@@ -105496,6 +105592,7 @@
 [/zglww.net/]quic://dns.alidns.com/dns-query
 [/zglxw.com/]quic://dns.alidns.com/dns-query
 [/zglyrc.com/]quic://dns.alidns.com/dns-query
+[/zglyun.com/]quic://dns.alidns.com/dns-query
 [/zglyz.com/]quic://dns.alidns.com/dns-query
 [/zgmba.com/]quic://dns.alidns.com/dns-query
 [/zgmcxw.com/]quic://dns.alidns.com/dns-query
@@ -106312,6 +106409,7 @@
 [/zhiliaocaibao.com/]quic://dns.alidns.com/dns-query
 [/zhiliaoke.com/]quic://dns.alidns.com/dns-query
 [/zhilidata.com/]quic://dns.alidns.com/dns-query
+[/zhiling.pw/]quic://dns.alidns.com/dns-query
 [/zhilingshidai.com/]quic://dns.alidns.com/dns-query
 [/zhilingshop.com/]quic://dns.alidns.com/dns-query
 [/zhilitraffic.com/]quic://dns.alidns.com/dns-query
@@ -108819,6 +108917,7 @@
 [/zuiyou.com/]quic://dns.alidns.com/dns-query
 [/zuiyouxi.com/]quic://dns.alidns.com/dns-query
 [/zuizhifu.com/]quic://dns.alidns.com/dns-query
+[/zuizhinan.com/]quic://dns.alidns.com/dns-query
 [/zuji360.com/]quic://dns.alidns.com/dns-query
 [/zujiant.com/]quic://dns.alidns.com/dns-query
 [/zujingpai.com/]quic://dns.alidns.com/dns-query
@@ -109195,6 +109294,7 @@
 [/zyou100.com/]quic://dns.alidns.com/dns-query
 [/zyoulun.com/]quic://dns.alidns.com/dns-query
 [/zypharm.com/]quic://dns.alidns.com/dns-query
+[/zypiaojia.com/]quic://dns.alidns.com/dns-query
 [/zyplayer.com/]quic://dns.alidns.com/dns-query
 [/zyq.today/]quic://dns.alidns.com/dns-query
 [/zyq366.com/]quic://dns.alidns.com/dns-query
